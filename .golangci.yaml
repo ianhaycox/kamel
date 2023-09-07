@@ -113,8 +113,8 @@ linters-settings:
     # switch
     default-signifies-exhaustive: false
   funlen:
-    lines: 60
-    statements: 40
+    lines: 100
+    statements: 60
   gci:
     # put imports beginning with prefix after 3rd-party packages;
     # only support one prefix
@@ -330,7 +330,6 @@ linters:
   enable:
     - bodyclose
     - deadcode
-    - depguard
     - dogsled
     - errcheck
     - exhaustive

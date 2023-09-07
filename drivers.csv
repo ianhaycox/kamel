@@ -1,0 +1,1339 @@
+Class,Pos,Driver,Car,,Points,Counted
+GTP,1.,Timothy Reed4,Nissan GTP ZX-T,,200,10 / min: 0/ laps: 263
+,2.,Aaron Humphrey4,Nissan GTP ZX-T,,157,10 / min: 5/ laps: 295
+,3.,Aitor Sintes-Galindo,Nissan GTP ZX-T,,147,10 / min: 0/ laps: 268
+,4.,Fabian Jungbluth,Nissan GTP ZX-T,,126,9 / min: 0/ laps: 226
+,5.,Antonio Alvarez,Nissan GTP ZX-T,,108,10 / min: 7/ laps: 254
+,6.,Laust Olsen,Nissan GTP ZX-T,,102,9 / min: 0/ laps: 245
+,7.,Alexander van de Sandt,Nissan GTP ZX-T,,100,8 / min: 0/ laps: 183
+,8.,Romain Belo,Nissan GTP ZX-T,,91,10 / min: 0/ laps: 282
+,9.,Xabier Sanchez,Nissan GTP ZX-T,,91,8 / min: 0/ laps: 190
+,10.,Jason Clapper,Nissan GTP ZX-T,,88,10 / min: 0/ laps: 256
+,11.,Hamilton Barrera Ruiz,Nissan GTP ZX-T,,84,8 / min: 0/ laps: 188
+,12.,Gianluca Gabbiani,Nissan GTP ZX-T,,80,10 / min: 0/ laps: 283
+,13.,Hugh Haycox,Nissan GTP ZX-T,,75,3 / min: 25/ laps: 106
+,14.,Shady Ahmad,Nissan GTP ZX-T,,69,10 / min: 0/ laps: 243
+,15.,Pepe Fuentes,Nissan GTP ZX-T,,69,5 / min: 0/ laps: 133
+,16.,Brendan Lim,Nissan GTP ZX-T,,66,9 / min: 0/ laps: 246
+,17.,Richard Holt,Nissan GTP ZX-T,,51,4 / min: 11/ laps: 125
+,18.,Mathias Havdal,Nissan GTP ZX-T,,48,3 / min: 8/ laps: 85
+,19.,Alex Ott,Nissan GTP ZX-T,,47,2 / min: 22/ laps: 59
+,20.,Jack David Spickett,Nissan GTP ZX-T,,42,3 / min: 0/ laps: 62
+,21.,Daniel Gomez C,Nissan GTP ZX-T,,40,3 / min: 11/ laps: 53
+,22.,Arturo Amro,Nissan GTP ZX-T,,38,6 / min: 0/ laps: 154
+,23.,Nicholas Mukanos,Nissan GTP ZX-T,,38,4 / min: 4/ laps: 87
+,24.,Arturas Kundelis,Nissan GTP ZX-T,,38,3 / min: 0/ laps: 80
+,25.,Jack Wells2,Nissan GTP ZX-T,,37,5 / min: 0/ laps: 113
+,26.,Dan Reed2,Nissan GTP ZX-T,,36,5 / min: 3/ laps: 140
+,27.,Ferran S. Grau,Nissan GTP ZX-T,,36,4 / min: 0/ laps: 81
+,28.,Riley Thompson,Nissan GTP ZX-T,,36,2 / min: 11/ laps: 72
+,29.,Carlos Fonseca,Nissan GTP ZX-T,,34,8 / min: 0/ laps: 233
+,30.,Philippe Savoie,Nissan GTP ZX-T,,33,4 / min: 2/ laps: 149
+,31.,Luis Henriquez,Nissan GTP ZX-T,,30,2 / min: 14/ laps: 66
+,32.,Andrew Madel,Nissan GTP ZX-T,,29,3 / min: 0/ laps: 79
+,33.,Alex Millward,Nissan GTP ZX-T,,28,3 / min: 0/ laps: 90
+,34.,Philip Lake,Nissan GTP ZX-T,,28,5 / min: 0/ laps: 81
+,35.,Sebastian Samedow,Nissan GTP ZX-T,,28,2 / min: 10/ laps: 65
+,36.,Tim Jonk2,Nissan GTP ZX-T,,28,4 / min: 0/ laps: 60
+,37.,Kurt Clapper,Nissan GTP ZX-T,,27,9 / min: 0/ laps: 227
+,38.,Sheamus Power,Nissan GTP ZX-T,,27,4 / min: 2/ laps: 129
+,39.,Daniel Aran,Nissan GTP ZX-T,,25,2 / min: 10/ laps: 54
+,40.,Audrius Valantiejus,Nissan GTP ZX-T,,25,1 / min: 25/ laps: 6
+,41.,Alessandro Ranieri,Nissan GTP ZX-T,,24,2 / min: 10/ laps: 56
+,42.,Lance Simon,Nissan GTP ZX-T,,23,3 / min: 6/ laps: 61
+,43.,Giovanni Lorenzo Guastella,Nissan GTP ZX-T,,22,3 / min: 5/ laps: 57
+,44.,Michael J Taylor,Nissan GTP ZX-T,,20,3 / min: 1/ laps: 104
+,45.,Javier Mosquera,Nissan GTP ZX-T,,19,3 / min: 0/ laps: 86
+,46.,Jorge López Expósito,Nissan GTP ZX-T,,19,2 / min: 7/ laps: 24
+,47.,Óscar Soltero,Nissan GTP ZX-T,,18,1 / min: 18/ laps: 29
+,48.,Jesús Sánchez Morales,Nissan GTP ZX-T,,17,3 / min: 2/ laps: 93
+,49.,Eric Intili,Nissan GTP ZX-T,,17,2 / min: 8/ laps: 47
+,50.,Stéphane Lesly,Nissan GTP ZX-T,,16,4 / min: 0/ laps: 117
+,51.,Jason Dunnington,Nissan GTP ZX-T,,16,2 / min: 6/ laps: 55
+,52.,Jack Atkinson,Nissan GTP ZX-T,,16,1 / min: 16/ laps: 37
+,53.,Morgan Soum,Nissan GTP ZX-T,,16,1 / min: 16/ laps: 18
+,54.,Martin Krejcirik,Nissan GTP ZX-T,,15,3 / min: 0/ laps: 72
+,55.,Albert Palahi,Nissan GTP ZX-T,,14,2 / min: 2/ laps: 65
+,56.,Gaston Santarelli,Nissan GTP ZX-T,,14,2 / min: 0/ laps: 52
+,57.,Dillon Buhr,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 29
+,58.,Jacob Leon,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 18
+,59.,Bjoern Ackermann,Nissan GTP ZX-T,,13,7 / min: 0/ laps: 169
+,60.,Fernando Cerrato,Nissan GTP ZX-T,,13,1 / min: 13/ laps: 23
+,61.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,12,4 / min: 0/ laps: 63
+,62.,Jose Conde,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 36
+,63.,Gabriel Herrero2,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 20
+,64.,Tim Phillips,Nissan GTP ZX-T,,11,5 / min: 0/ laps: 136
+,65.,Mark Axelson,Nissan GTP ZX-T,,11,3 / min: 0/ laps: 109
+,66.,Ryan Minzloff2,Nissan GTP ZX-T,,11,4 / min: 0/ laps: 87
+,67.,Andrew Eng,Nissan GTP ZX-T,,11,4 / min: 0/ laps: 65
+,68.,Mathieu Souphy,Nissan GTP ZX-T,,11,2 / min: 4/ laps: 58
+,69.,Andrey Grishin,Nissan GTP ZX-T,,11,2 / min: 2/ laps: 23
+,70.,Andrew Mitty,Nissan GTP ZX-T,,10,3 / min: 0/ laps: 55
+,71.,Ryley Downey,Nissan GTP ZX-T,,10,2 / min: 0/ laps: 45
+,72.,Joe Walker,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 36
+,73.,Fabien Vallet,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 22
+,74.,Mario Farag,Nissan GTP ZX-T,,9,1 / min: 9/ laps: 36
+,75.,Alexis Tapia Vico,Nissan GTP ZX-T,,9,1 / min: 9/ laps: 31
+,76.,Michael Fazzari,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 51
+,77.,Nate Kerr,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 20
+,78.,Jeffrey Furcon,Nissan GTP ZX-T,,7,6 / min: 0/ laps: 186
+,79.,Gerard Boldú,Nissan GTP ZX-T,,7,3 / min: 0/ laps: 92
+,80.,Germán Suárez,Nissan GTP ZX-T,,7,4 / min: 0/ laps: 78
+,81.,Salvador Salas,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 51
+,82.,Andre Lourenco,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 22
+,83.,Jaroslaw Kolman,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 22
+,84.,Maciek Sochacki,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 20
+,85.,Fausto Burgemeester3,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 6
+,86.,Joshua HT Lo,Nissan GTP ZX-T,,6,2 / min: 0/ laps: 44
+,87.,Zoltan Deme,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 31
+,88.,Ben Summers,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 20
+,89.,Aleksei Piskunov,Nissan GTP ZX-T,,5,4 / min: 0/ laps: 68
+,90.,Chris Champeau,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 51
+,91.,Ray Farlow,Nissan GTP ZX-T,,5,4 / min: 0/ laps: 43
+,92.,Charles Roberson2,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 20
+,93.,Nauzet Valeriano Herrera,Nissan GTP ZX-T,,4,2 / min: 1/ laps: 58
+,94.,Santiago Ramirez,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 51
+,95.,Bob Poplett,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 29
+,96.,Tommy Rhodes,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 20
+,97.,Ruben Arguedas Mateo,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 31
+,98.,Cody Massé,Nissan GTP ZX-T,,3,2 / min: 0/ laps: 29
+,99.,Brian C Smith,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 20
+,100.,Brian T. Martin,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 18
+,101.,Kevin M Parrish,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 15
+,102.,Fernando Sanchez Espallargas,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 6
+,103.,Daniel Simis,Nissan GTP ZX-T,,2,3 / min: 0/ laps: 88
+,104.,Travis Lapainis,Nissan GTP ZX-T,,2,4 / min: 0/ laps: 87
+,105.,Don Runkle Jr,Nissan GTP ZX-T,,2,2 / min: 0/ laps: 21
+,106.,Nathan Morgan3,Nissan GTP ZX-T,,1,3 / min: 0/ laps: 71
+,107.,Dustin Meaden,Nissan GTP ZX-T,,1,2 / min: 0/ laps: 42
+,108.,Ernesto Melendez III,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 26
+,109.,Janne Heiskanen,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 20
+,110.,Nicholas Morelli2,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 64
+,111.,Alex Nokes,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 58
+,112.,Herney Quesada,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 56
+,113.,Cristian Arribas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 49
+,114.,Adrian Nieto Martinez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 48
+,115.,Sarah Dallmeir,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 39
+,116.,Alec Campbell,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 37
+,117.,Matt Mead,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 33
+,118.,Travis McQuistion,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 33
+,119.,Miguel Sansano,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 31
+,120.,Tobias Röhner,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 29
+,121.,Matt Neal2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 26
+,122.,Ronny Schubert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,123.,Kristof Gergely Bakos,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 21
+,124.,Ian Layne,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,125.,Nick Melaragno2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,126.,Zac Stanley,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,127.,Roy Prewitt2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 18
+,128.,Jose Garcia26,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,129.,Gael Brooks,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,130.,Unai Llamas,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 16
+,131.,Josep Romero,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 16
+,132.,Julian Mendez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,133.,Morgan Smith3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,134.,Brett D. Bennett,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,135.,Nimos Gilbert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 14
+,136.,Matthew Palmer23,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 13
+,137.,Andrew Jonathan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 12
+,138.,Austin Dilts,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 12
+,139.,Logan Edwards,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,140.,James Kingsbury,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,141.,Tucker Whitworth2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,142.,Ryan Cashin,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 9
+,143.,James Barry,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 9
+,144.,Wayne Casteel,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,145.,Matthew Howe9,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,146.,David Wilkinson4,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,147.,James Kalinowski2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,148.,Lance Hanson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,149.,Alec Harvey,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,150.,Sean McLain,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,151.,Scott Woodry2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,152.,Adrián Gaspar,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,153.,Den Makarov,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,154.,Troy Proffit,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,155.,Mark Estrada2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,156.,Darren Ruthford,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,157.,Diego Ortiz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,158.,Austin Sawyer,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,159.,Emilio Tappani,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,160.,Donny Staubitz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,161.,Hélder M. Fernandes,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,162.,Matthew Wykoff,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,163.,Chris Ciampi,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,164.,Pablo L. Suárez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,165.,Brian Renn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,166.,Sergio Alonso Gomez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,167.,William Miller11,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,168.,Bailey Ellis,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTO,1.,Javier del Olmo,Audi 90 GTO,,228,10 / min: 16/ laps: 262
+,2.,Timothy Vaughan,Audi 90 GTO,,146,10 / min: 0/ laps: 198
+,3.,Ian Haycox,Audi 90 GTO,,140,10 / min: 2/ laps: 243
+,4.,Ove Trengereid,Audi 90 GTO,,137,8 / min: 0/ laps: 206
+,5.,Tim J Kennedy,Audi 90 GTO,,124,10 / min: 6/ laps: 228
+,6.,Jamie Hamel-Smith,Audi 90 GTO,,118,10 / min: 8/ laps: 253
+,7.,Noel Luneburg,Audi 90 GTO,,116,6 / min: 13/ laps: 155
+,8.,Doug Cloud,Audi 90 GTO,,114,10 / min: 0/ laps: 218
+,9.,Arturas Kundelis,Audi 90 GTO,,107,7 / min: 0/ laps: 165
+,10.,Robert Plumley,Audi 90 GTO,,101,9 / min: 0/ laps: 213
+,11.,David B Leman,Audi 90 GTO,,99,10 / min: 0/ laps: 238
+,12.,Mickey Friesen,Audi 90 GTO,,96,10 / min: 0/ laps: 261
+,13.,Cam Porter,Audi 90 GTO,,85,8 / min: 4/ laps: 215
+,14.,Mika Tuupola,Audi 90 GTO,,84,10 / min: 7/ laps: 242
+,15.,Théo Schleret,Audi 90 GTO,,81,5 / min: 0/ laps: 94
+,16.,Jack David Spickett,Audi 90 GTO,,68,5 / min: 4/ laps: 147
+,17.,Ben Laughter,Audi 90 GTO,,68,5 / min: 11/ laps: 134
+,18.,Michael Janke,Audi 90 GTO,,65,9 / min: 0/ laps: 187
+,19.,Thorben Paulik,Audi 90 GTO,,64,9 / min: 0/ laps: 206
+,20.,Nick Lancs,Audi 90 GTO,,59,6 / min: 3/ laps: 174
+,21.,Pablo Rangel2,Audi 90 GTO,,55,7 / min: 0/ laps: 168
+,22.,Zoltan Deme,Audi 90 GTO,,49,6 / min: 0/ laps: 133
+,23.,Xavier Baca,Audi 90 GTO,,43,5 / min: 4/ laps: 115
+,24.,Tomas Cybas,Audi 90 GTO,,43,4 / min: 0/ laps: 85
+,25.,Hector Cordero Suarez,Audi 90 GTO,,39,8 / min: 2/ laps: 172
+,26.,Sergej Grabun,Audi 90 GTO,,32,2 / min: 14/ laps: 57
+,27.,Benjamin Hackeson,Audi 90 GTO,,30,3 / min: 0/ laps: 45
+,28.,Johnny Bell,Audi 90 GTO,,26,5 / min: 2/ laps: 143
+,29.,Topi Korteniemi,Audi 90 GTO,,25,1 / min: 25/ laps: 6
+,30.,Andrew Lowery,Audi 90 GTO,,24,2 / min: 10/ laps: 22
+,31.,Nils Hoyt,Audi 90 GTO,,22,4 / min: 0/ laps: 100
+,32.,Marco Antonio Lopez Salgado2,Audi 90 GTO,,22,2 / min: 7/ laps: 49
+,33.,JD Rodriguez,Audi 90 GTO,,22,2 / min: 0/ laps: 30
+,34.,Marti Olle,Audi 90 GTO,,21,3 / min: 0/ laps: 54
+,35.,Peter Urban,Audi 90 GTO,,21,3 / min: 0/ laps: 35
+,36.,Sébastien Tixier,Audi 90 GTO,,20,1 / min: 20/ laps: 20
+,37.,Linas Petkevicius,Audi 90 GTO,,18,3 / min: 0/ laps: 83
+,38.,Dario Frattini,Audi 90 GTO,,18,1 / min: 18/ laps: 32
+,39.,Emerson Gaudin,Audi 90 GTO,,17,3 / min: 3/ laps: 90
+,40.,Eduar Jaramillo2,Audi 90 GTO,,17,3 / min: 5/ laps: 77
+,41.,Dominik Freils,Audi 90 GTO,,16,6 / min: 0/ laps: 96
+,42.,Duane Kernaghan,Audi 90 GTO,,15,2 / min: 6/ laps: 62
+,43.,Alfonso Fernandez5,Audi 90 GTO,,15,2 / min: 5/ laps: 48
+,44.,Aurimas Zilinskas,Audi 90 GTO,,14,2 / min: 0/ laps: 49
+,45.,Michel de Jonge,Audi 90 GTO,,14,2 / min: 0/ laps: 27
+,46.,Jayden Hopp,Audi 90 GTO,,14,1 / min: 14/ laps: 25
+,47.,Django Vaal,Audi 90 GTO,,14,1 / min: 14/ laps: 6
+,48.,Kaj Hansen,Audi 90 GTO,,13,3 / min: 0/ laps: 67
+,49.,Bjoern Ackermann,Audi 90 GTO,,13,2 / min: 4/ laps: 43
+,50.,Aron Kertesz,Audi 90 GTO,,13,3 / min: 0/ laps: 32
+,51.,Philippe Savoie,Audi 90 GTO,,13,1 / min: 13/ laps: 20
+,52.,Andre Schumacher,Audi 90 GTO,,12,2 / min: 0/ laps: 28
+,53.,Marc Ollé,Audi 90 GTO,,12,1 / min: 12/ laps: 20
+,54.,Tre Worley,Audi 90 GTO,,12,1 / min: 12/ laps: 20
+,55.,Marcus Rybarczyk,Audi 90 GTO,,12,1 / min: 12/ laps: 6
+,56.,Diego Asensos2,Audi 90 GTO,,11,2 / min: 4/ laps: 40
+,57.,Christian Rumpelnik,Audi 90 GTO,,11,1 / min: 11/ laps: 32
+,58.,Yoeri Gijsen,Audi 90 GTO,,11,1 / min: 11/ laps: 25
+,59.,Fabian Bouwmeester,Audi 90 GTO,,10,1 / min: 10/ laps: 27
+,60.,Sam Dillingham,Audi 90 GTO,,10,1 / min: 10/ laps: 20
+,61.,Timothy Vandenberge,Audi 90 GTO,,10,1 / min: 10/ laps: 16
+,62.,Chris Yettito,Audi 90 GTO,,10,1 / min: 10/ laps: 16
+,63.,Francois Shink,Audi 90 GTO,,10,1 / min: 10/ laps: 6
+,64.,Altan Hark,Audi 90 GTO,,9,2 / min: 4/ laps: 42
+,65.,Alexander Kukushkin,Audi 90 GTO,,9,3 / min: 0/ laps: 39
+,66.,Zachary Husted,Audi 90 GTO,,9,2 / min: 2/ laps: 23
+,67.,Andreas Nordenhof,Audi 90 GTO,,9,1 / min: 9/ laps: 16
+,68.,Alex Ott,Audi 90 GTO,,9,1 / min: 9/ laps: 5
+,69.,Gonzalo Díaz Nieto,Audi 90 GTO,,8,1 / min: 8/ laps: 31
+,70.,Oren Laskin,Audi 90 GTO,,8,1 / min: 8/ laps: 27
+,71.,Piers D'Orgee,Audi 90 GTO,,8,1 / min: 8/ laps: 23
+,72.,Joe Perry3,Audi 90 GTO,,8,1 / min: 8/ laps: 18
+,73.,Javier Lago,Audi 90 GTO,,8,1 / min: 8/ laps: 16
+,74.,Douglas Carabette,Audi 90 GTO,,7,2 / min: 0/ laps: 34
+,75.,Derek Matthews,Audi 90 GTO,,7,1 / min: 7/ laps: 27
+,76.,Ruud de Vries,Audi 90 GTO,,7,1 / min: 7/ laps: 23
+,77.,Ian Brasfield2,Audi 90 GTO,,7,1 / min: 7/ laps: 16
+,78.,Daniel Repetto,Audi 90 GTO,,7,1 / min: 7/ laps: 5
+,79.,Darren Ruthford,Audi 90 GTO,,6,1 / min: 6/ laps: 41
+,80.,Alexander Bischel,Audi 90 GTO,,6,1 / min: 6/ laps: 31
+,81.,Joergen Nielsen,Audi 90 GTO,,6,1 / min: 6/ laps: 30
+,82.,Anton Jonsson,Audi 90 GTO,,6,1 / min: 6/ laps: 23
+,83.,Juan Jose Suarez,Audi 90 GTO,,5,1 / min: 5/ laps: 23
+,84.,Ali Ruffin,Audi 90 GTO,,5,1 / min: 5/ laps: 18
+,85.,Brian Williams,Audi 90 GTO,,5,1 / min: 5/ laps: 16
+,86.,Daniel Ivana,Audi 90 GTO,,5,1 / min: 5/ laps: 5
+,87.,Antonio Martinez5,Audi 90 GTO,,4,1 / min: 4/ laps: 27
+,88.,Roland Ketzer,Audi 90 GTO,,4,1 / min: 4/ laps: 6
+,89.,Daniel Waghubinger,Audi 90 GTO,,3,1 / min: 3/ laps: 25
+,90.,Christopher Smith42,Audi 90 GTO,,3,1 / min: 3/ laps: 24
+,91.,Antonio Grapiglia,Audi 90 GTO,,3,1 / min: 3/ laps: 16
+,92.,Nicholas Yielding,Audi 90 GTO,,3,1 / min: 3/ laps: 16
+,93.,Duncan Marais,Audi 90 GTO,,2,1 / min: 2/ laps: 37
+,94.,Michael Haynes,Audi 90 GTO,,2,2 / min: 0/ laps: 29
+,95.,Pedro X Paiva,Audi 90 GTO,,2,2 / min: 0/ laps: 27
+,96.,Maxime Le Breton,Audi 90 GTO,,2,1 / min: 2/ laps: 5
+,97.,Marc Briones,Audi 90 GTO,,1,1 / min: 1/ laps: 26
+,98.,Peter Meier2,Audi 90 GTO,,1,2 / min: 0/ laps: 16
+,99.,Bru D Silva,Audi 90 GTO,,0,1 / min: 0/ laps: 28
+,100.,Devin Donaghy,Audi 90 GTO,,0,2 / min: 0/ laps: 20
+,101.,Arut Agaronyan,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,102.,Stryxnine Pulsatrix,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,103.,Matthew Wykoff,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,104.,Sheamus Power,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,105.,Jungwoo Hwang,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,106.,Bryan Dodd,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,107.,Angel Luis Moreno Villaseñor,Audi 90 GTO,,0,1 / min: 0/ laps: 10
+,108.,Luca Mosini,Audi 90 GTO,,0,1 / min: 0/ laps: 10
+,109.,Vojin Gajic,Audi 90 GTO,,0,1 / min: 0/ laps: 9
+,110.,Pol Ferrer,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,111.,Carlos Oliveira5,Audi 90 GTO,,0,1 / min: 0/ laps: 7
+,112.,Brian Otto,Audi 90 GTO,,0,1 / min: 0/ laps: 6
+,113.,Ryan Minzloff2,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,114.,Roel Kleinekoort,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,115.,Neiko G Simmons,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,116.,Matt Wasko,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,117.,Andreas Schuster,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,118.,Stephan Haisley,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,119.,Cody Blackledge,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,120.,Cory Vervynckt,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,121.,Kris Kornder,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,122.,Ivan Dmitrievich,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,123.,Dan Fresh,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,124.,Jan-Hendrik Ringe,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,125.,Samuel Stoner,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,126.,Duncan O'Brien,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,127.,Lee Ellicott,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,128.,David Cooley2,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,129.,Cat Wheeler,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,130.,Ayden Kirk,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+GTP,1.,Aitor Sintes-Galindo,Nissan GTP ZX-T,,197,10 / min: 0/ laps: 340
+,2.,Sheamus Power,Nissan GTP ZX-T,,146,8 / min: 9/ laps: 332
+,3.,Aaron Humphrey4,Nissan GTP ZX-T,,136,10 / min: 0/ laps: 348
+,4.,Fabian Jungbluth,Nissan GTP ZX-T,,134,9 / min: 1/ laps: 263
+,5.,Brendan Lim,Nissan GTP ZX-T,,131,10 / min: 6/ laps: 297
+,6.,Laust Olsen,Nissan GTP ZX-T,,127,8 / min: 8/ laps: 315
+,7.,Jason Clapper,Nissan GTP ZX-T,,123,10 / min: 0/ laps: 250
+,8.,Ferran S. Grau,Nissan GTP ZX-T,,104,7 / min: 0/ laps: 268
+,9.,Robert Plumley,Nissan GTP ZX-T,,104,9 / min: 7/ laps: 264
+,10.,Carlos Fonseca,Nissan GTP ZX-T,,99,9 / min: 6/ laps: 360
+,11.,Martin Krejcirik,Nissan GTP ZX-T,,99,9 / min: 0/ laps: 335
+,12.,Timothy Reed4,Nissan GTP ZX-T,,96,6 / min: 9/ laps: 169
+,13.,Eric Intili,Nissan GTP ZX-T,,84,5 / min: 8/ laps: 237
+,14.,Shady Ahmad,Nissan GTP ZX-T,,78,10 / min: 0/ laps: 272
+,15.,Gianluca Gabbiani,Nissan GTP ZX-T,,74,8 / min: 0/ laps: 240
+,16.,Michael DeTurck,Nissan GTP ZX-T,,67,4 / min: 0/ laps: 93
+,17.,Matthew Redford,Nissan GTP ZX-T,,56,3 / min: 16/ laps: 172
+,18.,Hamilton Barrera Ruiz,Nissan GTP ZX-T,,56,7 / min: 0/ laps: 168
+,19.,Jack Wells2,Nissan GTP ZX-T,,56,5 / min: 0/ laps: 117
+,20.,Kurt Clapper,Nissan GTP ZX-T,,50,9 / min: 0/ laps: 241
+,21.,Riley Thompson,Nissan GTP ZX-T,,50,2 / min: 25/ laps: 65
+,22.,Fernando Cerrato,Nissan GTP ZX-T,,48,3 / min: 0/ laps: 147
+,23.,Joshua HT Lo,Nissan GTP ZX-T,,47,6 / min: 0/ laps: 152
+,24.,Lance Simon,Nissan GTP ZX-T,,46,6 / min: 3/ laps: 266
+,25.,Jason Dunnington,Nissan GTP ZX-T,,42,6 / min: 0/ laps: 204
+,26.,Rob Geada,Nissan GTP ZX-T,,40,3 / min: 8/ laps: 171
+,27.,Jack David Spickett,Nissan GTP ZX-T,,39,3 / min: 9/ laps: 83
+,28.,Javier Mosquera,Nissan GTP ZX-T,,37,3 / min: 7/ laps: 170
+,29.,Hugh Murray3,Nissan GTP ZX-T,,37,2 / min: 9/ laps: 146
+,30.,Konstantin Koval,Nissan GTP ZX-T,,36,4 / min: 7/ laps: 109
+,31.,Tim Wilkinson3,Nissan GTP ZX-T,,34,6 / min: 0/ laps: 250
+,32.,Romain Belo,Nissan GTP ZX-T,,34,4 / min: 0/ laps: 101
+,33.,Brian Molitor,Nissan GTP ZX-T,,32,3 / min: 0/ laps: 61
+,34.,Ray Farlow,Nissan GTP ZX-T,,30,6 / min: 0/ laps: 166
+,35.,Scott Lear,Nissan GTP ZX-T,,29,4 / min: 4/ laps: 116
+,36.,David M Meyer,Nissan GTP ZX-T,,28,7 / min: 0/ laps: 202
+,37.,Andrew Madel,Nissan GTP ZX-T,,27,2 / min: 7/ laps: 55
+,38.,Pablo L. Suárez,Nissan GTP ZX-T,,26,6 / min: 0/ laps: 112
+,39.,Sean D Campbell,Nissan GTP ZX-T,,25,1 / min: 25/ laps: 29
+,40.,Mathias Havdal,Nissan GTP ZX-T,,25,1 / min: 25/ laps: 24
+,41.,Ryan Minzloff2,Nissan GTP ZX-T,,23,6 / min: 0/ laps: 145
+,42.,Ste Morris,Nissan GTP ZX-T,,22,4 / min: 0/ laps: 177
+,43.,Brian Sobb,Nissan GTP ZX-T,,22,2 / min: 3/ laps: 149
+,44.,Daniel Gomez C,Nissan GTP ZX-T,,22,4 / min: 0/ laps: 88
+,45.,Josh Garner2,Nissan GTP ZX-T,,21,2 / min: 1/ laps: 149
+,46.,Robbie Mcafee,Nissan GTP ZX-T,,20,1 / min: 20/ laps: 24
+,47.,Mathieu Souphy,Nissan GTP ZX-T,,19,3 / min: 0/ laps: 79
+,48.,Andrew Mitty,Nissan GTP ZX-T,,19,2 / min: 8/ laps: 56
+,49.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,18,3 / min: 0/ laps: 67
+,50.,Alexander van de Sandt,Nissan GTP ZX-T,,18,2 / min: 0/ laps: 42
+,51.,Fabien Vallet,Nissan GTP ZX-T,,18,1 / min: 18/ laps: 30
+,52.,Niels van Haandel,Nissan GTP ZX-T,,18,1 / min: 18/ laps: 26
+,53.,Emerson Gaudin,Nissan GTP ZX-T,,16,2 / min: 4/ laps: 51
+,54.,Jesús Sánchez Morales,Nissan GTP ZX-T,,16,2 / min: 0/ laps: 43
+,55.,Miguel Sansano,Nissan GTP ZX-T,,16,1 / min: 16/ laps: 29
+,56.,Stéphane Lesly,Nissan GTP ZX-T,,15,4 / min: 0/ laps: 81
+,57.,Daniel Simis,Nissan GTP ZX-T,,14,2 / min: 4/ laps: 55
+,58.,T Inatani,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 29
+,59.,Germán Suárez,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 28
+,60.,Jorge Fernandez Suarez,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 24
+,61.,Travis Lapainis,Nissan GTP ZX-T,,12,6 / min: 0/ laps: 154
+,62.,Robby Swan,Nissan GTP ZX-T,,12,2 / min: 0/ laps: 28
+,63.,Mario Farag,Nissan GTP ZX-T,,11,2 / min: 5/ laps: 72
+,64.,Luke Smoker,Nissan GTP ZX-T,,11,1 / min: 11/ laps: 23
+,65.,Antonio Alvarez,Nissan GTP ZX-T,,10,2 / min: 4/ laps: 50
+,66.,Antonio J. Vicens,Nissan GTP ZX-T,,10,2 / min: 0/ laps: 49
+,67.,Joel Aguilera2,Nissan GTP ZX-T,,10,2 / min: 0/ laps: 32
+,68.,Tommi Kallio-Kujala,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 28
+,69.,Matthew Howe9,Nissan GTP ZX-T,,9,1 / min: 9/ laps: 30
+,70.,Gavin Cone,Nissan GTP ZX-T,,9,1 / min: 9/ laps: 29
+,71.,Brian C Smith,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 30
+,72.,Jyri Wikström,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 28
+,73.,Nicholas Morelli2,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 26
+,74.,Harry Weir,Nissan GTP ZX-T,,6,2 / min: 2/ laps: 46
+,75.,Alex Ramirez2,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 28
+,76.,Oriol Monteagudo,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 28
+,77.,Krispijn Riet,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 24
+,78.,Aaron martin4,Nissan GTP ZX-T,,5,2 / min: 2/ laps: 67
+,79.,Jorge Gonzaga,Nissan GTP ZX-T,,5,3 / min: 0/ laps: 54
+,80.,Dan Reed2,Nissan GTP ZX-T,,5,2 / min: 0/ laps: 45
+,81.,Bret Weyand,Nissan GTP ZX-T,,5,3 / min: 0/ laps: 42
+,82.,Markus Lindblom5,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 20
+,83.,Isaac Snider,Nissan GTP ZX-T,,4,3 / min: 0/ laps: 104
+,84.,Christian Ortega,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 39
+,85.,J E Hyde,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 20
+,86.,Fernando Mattos,Nissan GTP ZX-T,,3,3 / min: 0/ laps: 81
+,87.,Don Runkle Jr,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 29
+,88.,Joshua Vanstone,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 27
+,89.,Sarah Dallmeir,Nissan GTP ZX-T,,2,2 / min: 0/ laps: 41
+,90.,Jose Garcia26,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 27
+,91.,Andre Lourenco,Nissan GTP ZX-T,,1,2 / min: 0/ laps: 58
+,92.,Christopher Bruyn,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 28
+,93.,Byron Long,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 24
+,94.,Nick Melaragno2,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 22
+,95.,Tim Phillips,Nissan GTP ZX-T,,0,3 / min: 0/ laps: 68
+,96.,Ronny Schubert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 31
+,97.,James Nunn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 30
+,98.,Oscar Alejandro Ramirez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 27
+,99.,Juha Iijalainen,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 27
+,100.,Kyle Graham,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 26
+,101.,Michael Greenberg2,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 26
+,102.,Juan Garcia,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,103.,Sandro Scerri,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,104.,Davide Sol,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 23
+,105.,Jesús Arboleya,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 23
+,106.,Greg Grizz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 22
+,107.,Andrew Jonathan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 21
+,108.,Iván Olesiejuk Ayuso,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 21
+,109.,Jeff Groff,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,110.,Philip Lake,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 19
+,111.,Nicky Bobby,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 19
+,112.,Pierryck Kerignard,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 19
+,113.,Philipp Ulanovsky,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 18
+,114.,Saif Al Otaiba,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 17
+,115.,Andrew Peddie,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 14
+,116.,Michael Spohn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,117.,Michael Newhall,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,118.,Richard Holt,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 8
+,119.,Vladimir Shumilov,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 8
+,120.,Daniel Villa3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,121.,Richard Dybdahl,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,122.,Oli Marler,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,123.,Maximilian Sena Müller,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,124.,Elliott Fry,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,125.,Cristian Fernández Rivas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,126.,Kris Kornder,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,127.,Jonas Koberstein,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,128.,John Keefe,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,129.,Raul Castillo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,130.,Jamie M Pounder,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,131.,Justin Ehrlich,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,132.,Brian Henson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,133.,Andreas Bödenauer,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,134.,Boris Rattez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,135.,Christopher Manfredi,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTO,1.,Ville Ruola,Audi 90 GTO,,231,10 / min: 16/ laps: 356
+,2.,Jouko Leskela,Audi 90 GTO,,222,10 / min: 0/ laps: 259
+,3.,Ove Trengereid,Audi 90 GTO,,192,10 / min: 13/ laps: 353
+,4.,Javier del Olmo,Audi 90 GTO,,177,10 / min: 12/ laps: 326
+,5.,Arturas Kundelis,Audi 90 GTO,,148,10 / min: 0/ laps: 298
+,6.,Ian Haycox,Audi 90 GTO,,136,10 / min: 4/ laps: 267
+,7.,Doug Cloud,Audi 90 GTO,,123,10 / min: 8/ laps: 333
+,8.,Tim J Kennedy,Audi 90 GTO,,104,9 / min: 0/ laps: 290
+,9.,Jamie Hamel-Smith,Audi 90 GTO,,95,10 / min: 0/ laps: 335
+,10.,Alex Ott,Audi 90 GTO,,90,4 / min: 13/ laps: 195
+,11.,Andreas Schuster,Audi 90 GTO,,83,7 / min: 0/ laps: 180
+,12.,Aurimas Zilinskas,Audi 90 GTO,,80,5 / min: 9/ laps: 221
+,13.,Jack David Spickett,Audi 90 GTO,,76,5 / min: 13/ laps: 126
+,14.,Hugh Haycox,Audi 90 GTO,,68,4 / min: 14/ laps: 94
+,15.,Franco Scuri,Audi 90 GTO,,66,6 / min: 0/ laps: 207
+,16.,Joni Hagner,Audi 90 GTO,,60,2 / min: 20/ laps: 131
+,17.,Timothy Vaughan,Audi 90 GTO,,59,4 / min: 9/ laps: 106
+,18.,Ralf Zeipelt,Audi 90 GTO,,58,4 / min: 10/ laps: 177
+,19.,Cam Porter,Audi 90 GTO,,52,7 / min: 0/ laps: 195
+,20.,Linas Petkevicius,Audi 90 GTO,,52,4 / min: 0/ laps: 163
+,21.,Dan Fresh,Audi 90 GTO,,51,6 / min: 7/ laps: 148
+,22.,Noel Luneburg,Audi 90 GTO,,50,4 / min: 0/ laps: 88
+,23.,Devin Donaghy,Audi 90 GTO,,46,6 / min: 0/ laps: 136
+,24.,Thorben Paulik,Audi 90 GTO,,45,7 / min: 0/ laps: 221
+,25.,Bjoern Ackermann,Audi 90 GTO,,40,10 / min: 0/ laps: 259
+,26.,JD Rodriguez,Audi 90 GTO,,38,4 / min: 0/ laps: 159
+,27.,Duncan O'Brien,Audi 90 GTO,,37,3 / min: 4/ laps: 150
+,28.,Peter Urban,Audi 90 GTO,,37,4 / min: 0/ laps: 79
+,29.,Oren Laskin,Audi 90 GTO,,36,5 / min: 0/ laps: 152
+,30.,Xavier Baca,Audi 90 GTO,,34,9 / min: 0/ laps: 271
+,31.,Daniel Repetto,Audi 90 GTO,,34,7 / min: 1/ laps: 174
+,32.,Philippe Savoie,Audi 90 GTO,,32,5 / min: 0/ laps: 103
+,33.,Josh Brain,Audi 90 GTO,,31,3 / min: 8/ laps: 71
+,34.,Mika Tuupola,Audi 90 GTO,,30,7 / min: 0/ laps: 141
+,35.,Daniel Cedeno,Audi 90 GTO,,29,4 / min: 0/ laps: 112
+,36.,Mickey Friesen,Audi 90 GTO,,28,10 / min: 0/ laps: 187
+,37.,Emerson Gaudin,Audi 90 GTO,,28,1 / min: 28/ laps: 108
+,38.,Andrius Šliumba,Audi 90 GTO,,28,2 / min: 14/ laps: 45
+,39.,Marco Antonio Lopez Salgado2,Audi 90 GTO,,27,3 / min: 2/ laps: 90
+,40.,Alfonso Fernandez5,Audi 90 GTO,,22,6 / min: 0/ laps: 194
+,41.,Joram Vanhixe,Audi 90 GTO,,22,2 / min: 10/ laps: 55
+,42.,Francois Demers,Audi 90 GTO,,22,2 / min: 8/ laps: 47
+,43.,Kike Mengual,Audi 90 GTO,,22,2 / min: 10/ laps: 46
+,44.,Sébastien Tixier,Audi 90 GTO,,21,3 / min: 0/ laps: 68
+,45.,Yoeri Gijsen,Audi 90 GTO,,21,2 / min: 8/ laps: 45
+,46.,Douglas Carabette,Audi 90 GTO,,20,3 / min: 0/ laps: 138
+,47.,Gabriel Asselien,Audi 90 GTO,,19,3 / min: 1/ laps: 157
+,48.,Django Vaal,Audi 90 GTO,,19,3 / min: 0/ laps: 70
+,49.,Topi Korteniemi,Audi 90 GTO,,18,1 / min: 18/ laps: 24
+,50.,Cody Blackledge,Audi 90 GTO,,16,6 / min: 0/ laps: 144
+,51.,Marti Olle,Audi 90 GTO,,15,1 / min: 15/ laps: 100
+,52.,Hugh Messenger,Audi 90 GTO,,15,2 / min: 5/ laps: 45
+,53.,Kheireddine Bouafia,Audi 90 GTO,,14,2 / min: 0/ laps: 27
+,54.,Hector Cordero Suarez,Audi 90 GTO,,12,2 / min: 5/ laps: 53
+,55.,Rob Olejniczak,Audi 90 GTO,,11,1 / min: 11/ laps: 26
+,56.,Jesus Amundaray,Audi 90 GTO,,10,2 / min: 3/ laps: 58
+,57.,Pablo Rangel2,Audi 90 GTO,,10,2 / min: 0/ laps: 53
+,58.,David Flamant2,Audi 90 GTO,,10,1 / min: 10/ laps: 27
+,59.,Jose A. Delgado,Audi 90 GTO,,10,1 / min: 10/ laps: 26
+,60.,Roope Aukusti Kurkipaa,Audi 90 GTO,,10,1 / min: 10/ laps: 21
+,61.,Sam Karasala,Audi 90 GTO,,9,1 / min: 9/ laps: 23
+,62.,Christopher Paiz,Audi 90 GTO,,9,1 / min: 9/ laps: 20
+,63.,Bru D Silva,Audi 90 GTO,,8,1 / min: 8/ laps: 35
+,64.,Neal Kemp,Audi 90 GTO,,8,1 / min: 8/ laps: 31
+,65.,Mark Darnell,Audi 90 GTO,,8,2 / min: 0/ laps: 30
+,66.,Jim McGill,Audi 90 GTO,,8,1 / min: 8/ laps: 26
+,67.,Andrew Daddow,Audi 90 GTO,,7,1 / min: 7/ laps: 26
+,68.,Víctor Santana,Audi 90 GTO,,7,1 / min: 7/ laps: 26
+,69.,Steve McLean,Audi 90 GTO,,7,1 / min: 7/ laps: 20
+,70.,Isaac Snider,Audi 90 GTO,,7,1 / min: 7/ laps: 19
+,71.,Javier Lago,Audi 90 GTO,,6,2 / min: 0/ laps: 38
+,72.,Elliot Beazer,Audi 90 GTO,,6,1 / min: 6/ laps: 26
+,73.,Kevin Binkley,Audi 90 GTO,,6,1 / min: 6/ laps: 23
+,74.,Julian Fameliaris,Audi 90 GTO,,6,1 / min: 6/ laps: 21
+,75.,Aleksey Diachkov,Audi 90 GTO,,6,1 / min: 6/ laps: 20
+,76.,Alejandro Silva Caride2,Audi 90 GTO,,5,1 / min: 5/ laps: 24
+,77.,Chancellor Barton,Audi 90 GTO,,5,1 / min: 5/ laps: 23
+,78.,Vitor Souza3,Audi 90 GTO,,5,1 / min: 5/ laps: 23
+,79.,Henri Nakari,Audi 90 GTO,,5,1 / min: 5/ laps: 21
+,80.,John Olson,Audi 90 GTO,,5,1 / min: 5/ laps: 20
+,81.,Timothy S Porter,Audi 90 GTO,,4,7 / min: 0/ laps: 90
+,82.,Carlos Fonseca,Audi 90 GTO,,4,2 / min: 0/ laps: 32
+,83.,Samanvay Karasala2,Audi 90 GTO,,4,1 / min: 4/ laps: 26
+,84.,Victor Del Valle Lopez,Audi 90 GTO,,4,1 / min: 4/ laps: 26
+,85.,Ian Carder,Audi 90 GTO,,4,1 / min: 4/ laps: 20
+,86.,Kaj Hansen,Audi 90 GTO,,3,2 / min: 0/ laps: 47
+,87.,Steve J Lewis,Audi 90 GTO,,3,2 / min: 0/ laps: 46
+,88.,Matthew Smith30,Audi 90 GTO,,3,1 / min: 3/ laps: 26
+,89.,Andre Schumacher,Audi 90 GTO,,3,1 / min: 3/ laps: 22
+,90.,Philip Lake,Audi 90 GTO,,3,1 / min: 3/ laps: 17
+,91.,Ronnie Peterson,Audi 90 GTO,,2,2 / min: 0/ laps: 44
+,92.,Bret Weyand,Audi 90 GTO,,1,1 / min: 1/ laps: 21
+,93.,Christopher Bruyn,Audi 90 GTO,,1,1 / min: 1/ laps: 20
+,94.,Jayden Hopp,Audi 90 GTO,,1,1 / min: 1/ laps: 20
+,95.,Mathias Bernier,Audi 90 GTO,,0,2 / min: 0/ laps: 30
+,96.,Alex Calvo Marti,Audi 90 GTO,,0,1 / min: 0/ laps: 25
+,97.,Sven Eriksson,Audi 90 GTO,,0,1 / min: 0/ laps: 22
+,98.,Anton Dubovickiy,Audi 90 GTO,,0,1 / min: 0/ laps: 21
+,99.,Marc Ollé,Audi 90 GTO,,0,1 / min: 0/ laps: 21
+,100.,Jens Göring,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,101.,Patrick Sitter,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,102.,Rodrigo Jaime,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,103.,Tomas Cybas,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,104.,Jackson Foy,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,105.,Neiko Simmons2,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,106.,Paulo Spínola,Audi 90 GTO,,0,1 / min: 0/ laps: 18
+,107.,Joe Varvel,Audi 90 GTO,,0,1 / min: 0/ laps: 18
+,108.,Ryan Schroeder,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,109.,Andre Lehmann,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,110.,Thomas Fontaine,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,111.,Joachim Andreassen2,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,112.,Jeremi Östring,Audi 90 GTO,,0,1 / min: 0/ laps: 14
+,113.,Peter Meier2,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,114.,James D Carr,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,115.,Philippe Mourier,Audi 90 GTO,,0,1 / min: 0/ laps: 9
+,116.,Miguel A. Alcalde,Audi 90 GTO,,0,1 / min: 0/ laps: 6
+,117.,Benjamin Crovari,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,118.,Nathan Matos,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,119.,Jason Clemons,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,120.,Jesper Lindman,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,121.,Efren Montesdeoca,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,122.,Karl Stonesifer,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,123.,Matt Wasko,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+GTP,1.,Hugh Haycox,Nissan GTP ZX-T,,216,10 / min: 0/ laps: 226
+,2.,Fabian Jungbluth,Nissan GTP ZX-T,,155,10 / min: 8/ laps: 262
+,3.,Mathias Havdal,Nissan GTP ZX-T,,149,8 / min: 0/ laps: 180
+,4.,Aitor Sintes-Galindo,Nissan GTP ZX-T,,147,10 / min: 0/ laps: 249
+,5.,Aaron Humphrey4,Nissan GTP ZX-T,,138,10 / min: 7/ laps: 254
+,6.,Jason Clapper,Nissan GTP ZX-T,,121,10 / min: 6/ laps: 271
+,7.,Laust Olsen,Nissan GTP ZX-T,,121,10 / min: 0/ laps: 235
+,8.,Timothy Reed4,Nissan GTP ZX-T,,119,8 / min: 0/ laps: 179
+,9.,Timothy Vaughan,Nissan GTP ZX-T,,111,8 / min: 0/ laps: 186
+,10.,Ove Trengereid,Nissan GTP ZX-T,,95,8 / min: 0/ laps: 183
+,11.,Martin Krejcirik,Nissan GTP ZX-T,,88,10 / min: 2/ laps: 239
+,12.,Antti Lepistö,Nissan GTP ZX-T,,88,7 / min: 0/ laps: 152
+,13.,Alex Ott,Nissan GTP ZX-T,,81,4 / min: 16/ laps: 92
+,14.,Tim Jonk2,Nissan GTP ZX-T,,71,10 / min: 0/ laps: 227
+,15.,Brendan Lim,Nissan GTP ZX-T,,69,10 / min: 0/ laps: 237
+,16.,Arto Ihamäki,Nissan GTP ZX-T,,68,7 / min: 0/ laps: 108
+,17.,Kurt Clapper,Nissan GTP ZX-T,,61,10 / min: 2/ laps: 251
+,18.,Ferran S. Grau,Nissan GTP ZX-T,,55,6 / min: 0/ laps: 120
+,19.,Romain Belo,Nissan GTP ZX-T,,50,8 / min: 0/ laps: 135
+,20.,Fernando Cerrato,Nissan GTP ZX-T,,48,5 / min: 0/ laps: 119
+,21.,Stéphane Lesly,Nissan GTP ZX-T,,47,7 / min: 0/ laps: 141
+,22.,Sheamus Power,Nissan GTP ZX-T,,42,4 / min: 3/ laps: 78
+,23.,Marc Torres Expósito,Nissan GTP ZX-T,,40,7 / min: 0/ laps: 148
+,24.,Antonio Alvarez,Nissan GTP ZX-T,,32,3 / min: 0/ laps: 79
+,25.,Tommi Kallio-Kujala,Nissan GTP ZX-T,,31,3 / min: 9/ laps: 90
+,26.,Germán Suárez,Nissan GTP ZX-T,,27,4 / min: 0/ laps: 97
+,27.,Michael DeTurck,Nissan GTP ZX-T,,27,2 / min: 11/ laps: 47
+,28.,Brett Punkari,Nissan GTP ZX-T,,26,5 / min: 0/ laps: 81
+,29.,Xabier Sanchez,Nissan GTP ZX-T,,26,3 / min: 0/ laps: 56
+,30.,Javier Mosquera,Nissan GTP ZX-T,,24,3 / min: 2/ laps: 77
+,31.,Jack David Spickett,Nissan GTP ZX-T,,23,2 / min: 10/ laps: 55
+,32.,Antonio J. Vicens,Nissan GTP ZX-T,,23,3 / min: 0/ laps: 52
+,33.,Topi Korteniemi,Nissan GTP ZX-T,,22,1 / min: 22/ laps: 11
+,34.,Darryl Wineinger,Nissan GTP ZX-T,,21,3 / min: 2/ laps: 46
+,35.,Gerard Boldú,Nissan GTP ZX-T,,20,3 / min: 0/ laps: 80
+,36.,Tim Wilkinson3,Nissan GTP ZX-T,,19,3 / min: 0/ laps: 62
+,37.,Mark Jeangerard,Nissan GTP ZX-T,,19,2 / min: 9/ laps: 38
+,38.,Iván Olesiejuk Ayuso,Nissan GTP ZX-T,,18,2 / min: 8/ laps: 46
+,39.,Jeff Groff,Nissan GTP ZX-T,,15,2 / min: 6/ laps: 51
+,40.,Matthew Redford,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 11
+,41.,Brendan Hobbart,Nissan GTP ZX-T,,14,2 / min: 0/ laps: 24
+,42.,Raymond Tieu,Nissan GTP ZX-T,,14,1 / min: 14/ laps: 22
+,43.,Tim Phillips,Nissan GTP ZX-T,,13,4 / min: 0/ laps: 90
+,44.,Teemu Toikka,Nissan GTP ZX-T,,13,3 / min: 0/ laps: 24
+,45.,Togo Hisada,Nissan GTP ZX-T,,12,3 / min: 1/ laps: 61
+,46.,Junya Honma,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 38
+,47.,Jason Dunnington,Nissan GTP ZX-T,,12,2 / min: 0/ laps: 34
+,48.,Kevin M Parrish,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 34
+,49.,Jos Smets,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 27
+,50.,Marty Novak,Nissan GTP ZX-T,,11,1 / min: 11/ laps: 24
+,51.,Jose Conde,Nissan GTP ZX-T,,10,2 / min: 4/ laps: 71
+,52.,K Mizen,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 38
+,53.,Jonathan Maycock,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 38
+,54.,Ross Banfield2,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 32
+,55.,Jacob Leon,Nissan GTP ZX-T,,9,1 / min: 9/ laps: 32
+,56.,Jorge Fernandez Suarez,Nissan GTP ZX-T,,8,3 / min: 0/ laps: 43
+,57.,Peter Cowan,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 38
+,58.,Christian Bermejo,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 27
+,59.,Gabby Chaves,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 27
+,60.,Lilac Zier,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 22
+,61.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 38
+,62.,John Keefe,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 33
+,63.,Nico Boris,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 27
+,64.,Matthew Palmer23,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 23
+,65.,Clayton Macleod,Nissan GTP ZX-T,,7,2 / min: 1/ laps: 19
+,66.,Dennis Haller,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 8
+,67.,Eduardo Rocha,Nissan GTP ZX-T,,7,1 / min: 7/ laps: 8
+,68.,Daniel Gomez C,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 33
+,69.,Shaun Watson2,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 27
+,70.,Oscar Prado,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 23
+,71.,Jorge Gonzaga,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 22
+,72.,Antonio C Junior,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 11
+,73.,Cristian Arribas,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 26
+,74.,Kimmo Viljakainen,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 11
+,75.,Théo Schleret,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 8
+,76.,Erik Knudson2,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 26
+,77.,Alvaro G Cortines,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 23
+,78.,Unai Llamas,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 11
+,79.,Jukka Tolonen,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 8
+,80.,Robert P Lowry,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 7
+,81.,Jose Garcia26,Nissan GTP ZX-T,,3,2 / min: 0/ laps: 59
+,82.,Calvin Salacain,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 37
+,83.,Kaj Hansen,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 33
+,84.,Ste Morris,Nissan GTP ZX-T,,3,2 / min: 0/ laps: 23
+,85.,Rob Geada,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 11
+,86.,Péter Brusznyiczki,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 7
+,87.,Luis Gomez4,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 37
+,88.,Andreas Bödenauer,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 26
+,89.,Kyall Fisher,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 17
+,90.,Travis Lapainis,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 37
+,91.,Mark Hewitt,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 23
+,92.,Jeffrey Furcon,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 11
+,93.,Patrick Szilvasi,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 7
+,94.,Michael Foulds,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 6
+,95.,Justin Kirby,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 31
+,96.,Marc Jimenez,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 26
+,97.,Robert Plumley,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 25
+,98.,Hamilton Barrera Ruiz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,99.,John Dunne3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,100.,Jerek Evans,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 14
+,101.,Anton Polyakov,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,102.,Steven Guillou,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,103.,Blair Holliman,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,104.,Chaz Johnson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,105.,Tamás Bártfai,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 9
+,106.,Harry Weir,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 8
+,107.,Salvador Salas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,108.,Jordan Brubaker,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,109.,Daan Schuuring2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,110.,Spencer Torrance,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,111.,Juan Bello,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,112.,Roy Prewitt2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,113.,Franz Pippel,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,114.,Oriol Monteagudo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,115.,Richard Schmitz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,116.,Alex J Peck,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,117.,Andrew Duncan2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,118.,Toby Yeomans,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,119.,Jay Walsh,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,120.,Branden Dugan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,121.,Joseph Sabia,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,122.,Peter Wittner,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,123.,Till Behme,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,124.,Beckham Jacir,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,125.,Felix Bemejo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,126.,Troy Adams,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTO,1.,Jouko Leskela,Audi 90 GTO,,244,10 / min: 22/ laps: 243
+,2.,Javier del Olmo,Audi 90 GTO,,200,10 / min: 12/ laps: 243
+,3.,Ian Haycox,Audi 90 GTO,,166,10 / min: 8/ laps: 225
+,4.,Esko Lehtiniemi,Audi 90 GTO,,150,10 / min: 0/ laps: 238
+,5.,Doug Cloud,Audi 90 GTO,,146,10 / min: 11/ laps: 232
+,6.,Jamie Hamel-Smith,Audi 90 GTO,,119,10 / min: 5/ laps: 220
+,7.,Arturas Kundelis,Audi 90 GTO,,111,9 / min: 0/ laps: 179
+,8.,Philippe Savoie,Audi 90 GTO,,106,9 / min: 9/ laps: 208
+,9.,Andreas Schuster,Audi 90 GTO,,98,6 / min: 8/ laps: 124
+,10.,Cam Porter,Audi 90 GTO,,88,8 / min: 6/ laps: 193
+,11.,Topi Korteniemi,Audi 90 GTO,,81,4 / min: 16/ laps: 109
+,12.,Kurt Krumm,Audi 90 GTO,,80,5 / min: 10/ laps: 114
+,13.,Bjoern Ackermann,Audi 90 GTO,,74,10 / min: 0/ laps: 209
+,14.,Carlos Fonseca,Audi 90 GTO,,68,7 / min: 7/ laps: 148
+,15.,Daniel Repetto,Audi 90 GTO,,64,6 / min: 9/ laps: 123
+,16.,Marti Olle,Audi 90 GTO,,61,5 / min: 0/ laps: 97
+,17.,Franco Scuri,Audi 90 GTO,,54,6 / min: 0/ laps: 109
+,18.,Jack David Spickett,Audi 90 GTO,,44,5 / min: 0/ laps: 80
+,19.,Devin Donaghy,Audi 90 GTO,,41,4 / min: 7/ laps: 85
+,20.,Aurimas Zilinskas,Audi 90 GTO,,36,3 / min: 6/ laps: 68
+,21.,Andre Schumacher,Audi 90 GTO,,36,3 / min: 0/ laps: 55
+,22.,Yoeri Gijsen,Audi 90 GTO,,34,5 / min: 0/ laps: 85
+,23.,Andreas Nielsen9,Audi 90 GTO,,33,3 / min: 9/ laps: 51
+,24.,Juanmi Costa,Audi 90 GTO,,30,2 / min: 14/ laps: 47
+,25.,Linas Petkevicius,Audi 90 GTO,,28,2 / min: 14/ laps: 47
+,26.,Marc Ollé,Audi 90 GTO,,26,6 / min: 0/ laps: 80
+,27.,Timothy Reed4,Audi 90 GTO,,25,3 / min: 2/ laps: 80
+,28.,Tomas Cybas,Audi 90 GTO,,25,3 / min: 0/ laps: 65
+,29.,steve Low,Audi 90 GTO,,24,4 / min: 3/ laps: 87
+,30.,Francois Demers,Audi 90 GTO,,22,6 / min: 0/ laps: 75
+,31.,Kevin M Parrish,Audi 90 GTO,,22,3 / min: 0/ laps: 43
+,32.,Kristian Schaefer,Audi 90 GTO,,21,2 / min: 7/ laps: 30
+,33.,Michael Haynes,Audi 90 GTO,,20,3 / min: 5/ laps: 51
+,34.,Roger Fjeldstad Kristiansen,Audi 90 GTO,,20,1 / min: 20/ laps: 7
+,35.,Reid Miller,Audi 90 GTO,,14,1 / min: 14/ laps: 25
+,36.,Henry Charman,Audi 90 GTO,,13,1 / min: 13/ laps: 25
+,37.,Robert Plumley,Audi 90 GTO,,13,1 / min: 13/ laps: 21
+,38.,Benjamin Luke,Audi 90 GTO,,12,2 / min: 6/ laps: 55
+,39.,Alex Ott,Audi 90 GTO,,12,1 / min: 12/ laps: 35
+,40.,Nejtun Cameron,Audi 90 GTO,,12,2 / min: 0/ laps: 23
+,41.,Samuel de Oliveira,Audi 90 GTO,,12,1 / min: 12/ laps: 23
+,42.,David Buckley2,Audi 90 GTO,,12,2 / min: 0/ laps: 12
+,43.,Roland Ketzer,Audi 90 GTO,,12,1 / min: 12/ laps: 7
+,44.,Emerson Gaudin,Audi 90 GTO,,11,1 / min: 11/ laps: 22
+,45.,John Szpyt,Audi 90 GTO,,11,1 / min: 11/ laps: 7
+,46.,Logan McKinzie,Audi 90 GTO,,10,1 / min: 10/ laps: 24
+,47.,Micah Hendricks,Audi 90 GTO,,10,1 / min: 10/ laps: 23
+,48.,Scott Bennett9,Audi 90 GTO,,10,1 / min: 10/ laps: 7
+,49.,Andrew Lowery,Audi 90 GTO,,9,1 / min: 9/ laps: 20
+,50.,Paulo Spinola,Audi 90 GTO,,8,2 / min: 3/ laps: 48
+,51.,Wiley Cox,Audi 90 GTO,,8,1 / min: 8/ laps: 34
+,52.,Edu vila,Audi 90 GTO,,8,2 / min: 0/ laps: 24
+,53.,Jim McGill,Audi 90 GTO,,8,1 / min: 8/ laps: 10
+,54.,Wouter Hermans,Audi 90 GTO,,8,1 / min: 8/ laps: 10
+,55.,Christopher Baier,Audi 90 GTO,,8,1 / min: 8/ laps: 6
+,56.,Kirk Marble,Audi 90 GTO,,7,1 / min: 7/ laps: 34
+,57.,Daniel Forte,Audi 90 GTO,,7,1 / min: 7/ laps: 22
+,58.,Chris Sanchez,Audi 90 GTO,,7,1 / min: 7/ laps: 10
+,59.,Javier Delgado6,Audi 90 GTO,,7,1 / min: 7/ laps: 6
+,60.,Kheireddine Bouafia,Audi 90 GTO,,6,2 / min: 0/ laps: 32
+,61.,Steve McLean,Audi 90 GTO,,6,1 / min: 6/ laps: 29
+,62.,Cabhan Budd,Audi 90 GTO,,6,1 / min: 6/ laps: 20
+,63.,Maximilian Manlig,Audi 90 GTO,,6,1 / min: 6/ laps: 19
+,64.,Macaulay Lawrence,Audi 90 GTO,,6,1 / min: 6/ laps: 10
+,65.,Axel Vilar,Audi 90 GTO,,6,1 / min: 6/ laps: 6
+,66.,Hugh Messenger,Audi 90 GTO,,5,1 / min: 5/ laps: 33
+,67.,Jens Göring,Audi 90 GTO,,5,1 / min: 5/ laps: 24
+,68.,Javier Lago,Audi 90 GTO,,4,2 / min: 1/ laps: 40
+,69.,Remo Jachmann,Audi 90 GTO,,4,2 / min: 0/ laps: 30
+,70.,Sergej Grabun,Audi 90 GTO,,4,1 / min: 4/ laps: 23
+,71.,Andres Annsoo,Audi 90 GTO,,4,1 / min: 4/ laps: 16
+,72.,Robert Bouchard,Audi 90 GTO,,4,1 / min: 4/ laps: 10
+,73.,José Da Lanca,Audi 90 GTO,,3,1 / min: 3/ laps: 10
+,74.,Cody Blackledge,Audi 90 GTO,,2,1 / min: 2/ laps: 31
+,75.,Ronnie Peterson,Audi 90 GTO,,2,1 / min: 2/ laps: 23
+,76.,Ciprian Lacatus,Audi 90 GTO,,2,1 / min: 2/ laps: 10
+,77.,Sammy Hendrix,Audi 90 GTO,,1,1 / min: 1/ laps: 29
+,78.,Marco Chiodi,Audi 90 GTO,,1,2 / min: 0/ laps: 28
+,79.,Kevin Lawson-Thomas,Audi 90 GTO,,1,1 / min: 1/ laps: 23
+,80.,Hugh Haycox,Audi 90 GTO,,0,1 / min: 0/ laps: 23
+,81.,Curtis James,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,82.,Rasmus Lauge,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,83.,Adam Brogden,Audi 90 GTO,,0,3 / min: 0/ laps: 15
+,84.,David Badia,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,85.,Tom Weithaas,Audi 90 GTO,,0,1 / min: 0/ laps: 13
+,86.,Ryan Fischer,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,87.,Bruno Viviano,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,88.,Alex Mas,Audi 90 GTO,,0,2 / min: 0/ laps: 10
+,89.,Arturo Vicente Jaén,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,90.,Marcus Rybarczyk,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,91.,Fernando Mattos,Audi 90 GTO,,0,1 / min: 0/ laps: 7
+,92.,Mario Kremser,Audi 90 GTO,,0,1 / min: 0/ laps: 6
+,93.,Magnus Johansson,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,94.,Robbie Kirtley,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,95.,Niclas Klitzsch2,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,96.,Tom Lademann,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,97.,Kike Mengual,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,98.,Mackenzie Rune,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,99.,Ryan J Sharp,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,100.,Adrian Moreno Zurita,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,101.,Robby Swan,Audi 90 GTO,,0,2 / min: 0/ laps: 1
+,102.,Ruben Arenas,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,103.,Matthew Howe9,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,104.,Arut Agaronyan,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,105.,Oren Laskin,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,106.,Neiko Simmons2,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,107.,Barry Wright2,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,108.,Ben James Latham,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,109.,Francois Shink,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+GTP Lights,1.,Gianluca Gabbiani,Nissan GTP ZX-T,,93,10 / min: 0/ laps: 283
+,2.,Romain Belo,Nissan GTP ZX-T,,92,9 / min: 0/ laps: 226
+,3.,Shady Ahmad,Nissan GTP ZX-T,,68,10 / min: 0/ laps: 243
+,4.,Arturo Amro,Nissan GTP ZX-T,,38,6 / min: 0/ laps: 154
+,5.,Kurt Clapper,Nissan GTP ZX-T,,33,9 / min: 0/ laps: 227
+,6.,Stéphane Lesly,Nissan GTP ZX-T,,33,4 / min: 0/ laps: 117
+,7.,Alessandro Ranieri,Nissan GTP ZX-T,,25,2 / min: 10/ laps: 56
+,8.,Michael J Taylor,Nissan GTP ZX-T,,24,3 / min: 6/ laps: 104
+,9.,Tim Jonk2,Nissan GTP ZX-T,,23,4 / min: 0/ laps: 60
+,10.,Carlos Fonseca,Nissan GTP ZX-T,,20,3 / min: 0/ laps: 95
+,11.,Giovanni Lorenzo Guastella,Nissan GTP ZX-T,,20,3 / min: 6/ laps: 57
+,12.,Dan Reed2,Nissan GTP ZX-T,,19,3 / min: 1/ laps: 70
+,13.,Lance Simon,Nissan GTP ZX-T,,17,3 / min: 4/ laps: 61
+,14.,Albert Palahi,Nissan GTP ZX-T,,16,2 / min: 4/ laps: 65
+,15.,Mathieu Souphy,Nissan GTP ZX-T,,16,2 / min: 6/ laps: 58
+,16.,Gaston Santarelli,Nissan GTP ZX-T,,15,2 / min: 0/ laps: 52
+,17.,Dillon Buhr,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 29
+,18.,Jacob Leon,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 18
+,19.,Jason Dunnington,Nissan GTP ZX-T,,13,2 / min: 4/ laps: 55
+,20.,Mark Axelson,Nissan GTP ZX-T,,12,3 / min: 0/ laps: 109
+,21.,Philippe Savoie,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 51
+,22.,Jose Conde,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 36
+,23.,Antonio Alvarez,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 27
+,24.,Gabriel Herrero2,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 20
+,25.,Jeffrey Furcon,Nissan GTP ZX-T,,11,6 / min: 0/ laps: 186
+,26.,Bjoern Ackermann,Nissan GTP ZX-T,,10,7 / min: 0/ laps: 169
+,27.,Tim Phillips,Nissan GTP ZX-T,,10,5 / min: 0/ laps: 136
+,28.,Joe Walker,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 36
+,29.,Ryan Minzloff2,Nissan GTP ZX-T,,9,4 / min: 0/ laps: 87
+,30.,Andrew Eng,Nissan GTP ZX-T,,8,4 / min: 0/ laps: 65
+,31.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,8,3 / min: 0/ laps: 42
+,32.,Mario Farag,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 36
+,33.,Ruben Arguedas Mateo,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 31
+,34.,Andrey Grishin,Nissan GTP ZX-T,,8,2 / min: 0/ laps: 23
+,35.,Alex Nokes,Nissan GTP ZX-T,,6,2 / min: 0/ laps: 58
+,36.,Michael Fazzari,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 51
+,37.,Nate Kerr,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 20
+,38.,Salvador Salas,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 51
+,39.,Cody Massé,Nissan GTP ZX-T,,5,2 / min: 0/ laps: 29
+,40.,Andre Lourenco,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 22
+,41.,Fausto Burgemeester3,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 6
+,42.,Gerard Boldú,Nissan GTP ZX-T,,4,3 / min: 0/ laps: 92
+,43.,Nauzet Valeriano Herrera,Nissan GTP ZX-T,,4,2 / min: 1/ laps: 58
+,44.,Joshua HT Lo,Nissan GTP ZX-T,,4,2 / min: 0/ laps: 44
+,45.,Zoltan Deme,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 31
+,46.,Ben Summers,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 20
+,47.,Aleksei Piskunov,Nissan GTP ZX-T,,3,4 / min: 0/ laps: 68
+,48.,Chris Champeau,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 51
+,49.,Ray Farlow,Nissan GTP ZX-T,,3,4 / min: 0/ laps: 43
+,50.,Ernesto Melendez III,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 26
+,51.,Maciek Sochacki,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 20
+,52.,Charles Roberson2,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 20
+,53.,Daniel Simis,Nissan GTP ZX-T,,2,3 / min: 0/ laps: 88
+,54.,Santiago Ramirez,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 51
+,55.,Tommy Rhodes,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 20
+,56.,Nathan Morgan3,Nissan GTP ZX-T,,1,3 / min: 0/ laps: 71
+,57.,Matt Neal2,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 26
+,58.,Don Runkle Jr,Nissan GTP ZX-T,,1,2 / min: 0/ laps: 21
+,59.,Brian C Smith,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 20
+,60.,Brian T. Martin,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 18
+,61.,Fernando Sanchez Espallargas,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 6
+,62.,Travis Lapainis,Nissan GTP ZX-T,,0,4 / min: 0/ laps: 87
+,63.,Nicholas Morelli2,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 64
+,64.,Herney Quesada,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 56
+,65.,Cristian Arribas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 49
+,66.,Adrian Nieto Martinez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 48
+,67.,Dustin Meaden,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 42
+,68.,Sarah Dallmeir,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 39
+,69.,Travis McQuistion,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 33
+,70.,Matt Mead,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 33
+,71.,Ronny Schubert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,72.,Kristof Gergely Bakos,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 21
+,73.,Nick Melaragno2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,74.,Janne Heiskanen,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,75.,Zac Stanley,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,76.,Roy Prewitt2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 18
+,77.,Josep Romero,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 16
+,78.,Julian Mendez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,79.,Unai Llamas,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 16
+,80.,Jose Garcia26,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,81.,Gael Brooks,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 16
+,82.,Brett D. Bennett,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,83.,Morgan Smith3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,84.,Nimos Gilbert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 14
+,85.,Matthew Palmer23,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 13
+,86.,Austin Dilts,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 12
+,87.,Andrew Jonathan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 12
+,88.,Logan Edwards,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,89.,Tucker Whitworth2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,90.,James Kingsbury,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,91.,Ryan Cashin,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 9
+,92.,Matthew Howe9,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,93.,David Wilkinson4,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,94.,Alec Harvey,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,95.,Sean McLain,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,96.,James Kalinowski2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,97.,Lance Hanson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,98.,Troy Proffit,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,99.,Adrián Gaspar,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,100.,Den Makarov,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,101.,Scott Woodry2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,102.,Mark Estrada2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,103.,Darren Ruthford,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,104.,Austin Sawyer,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,105.,Donny Staubitz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,106.,Emilio Tappani,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,107.,Hélder M. Fernandes,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,108.,Chris Ciampi,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,109.,Matthew Wykoff,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,110.,Pablo L. Suárez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,111.,Brian Renn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,112.,Bailey Ellis,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,113.,William Miller11,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,114.,Sergio Alonso Gomez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTU,1.,David B Leman,Audi 90 GTO,,88,10 / min: 0/ laps: 238
+,2.,Mickey Friesen,Audi 90 GTO,,82,10 / min: 0/ laps: 253
+,3.,Cam Porter,Audi 90 GTO,,71,8 / min: 0/ laps: 215
+,4.,Tim J Kennedy,Audi 90 GTO,,61,8 / min: 0/ laps: 167
+,5.,Nick Lancs,Audi 90 GTO,,56,6 / min: 1/ laps: 174
+,6.,Thorben Paulik,Audi 90 GTO,,53,9 / min: 0/ laps: 206
+,7.,Mika Tuupola,Audi 90 GTO,,49,10 / min: 1/ laps: 242
+,8.,Xavier Baca,Audi 90 GTO,,42,5 / min: 3/ laps: 115
+,9.,Zoltan Deme,Audi 90 GTO,,38,6 / min: 0/ laps: 133
+,10.,Tomas Cybas,Audi 90 GTO,,38,4 / min: 0/ laps: 85
+,11.,Michael Janke,Audi 90 GTO,,35,8 / min: 0/ laps: 167
+,12.,Pablo Rangel2,Audi 90 GTO,,32,7 / min: 0/ laps: 168
+,13.,Sergej Grabun,Audi 90 GTO,,29,2 / min: 14/ laps: 57
+,14.,Andrew Lowery,Audi 90 GTO,,25,2 / min: 10/ laps: 22
+,15.,Hector Cordero Suarez,Audi 90 GTO,,24,8 / min: 0/ laps: 172
+,16.,Nils Hoyt,Audi 90 GTO,,15,4 / min: 0/ laps: 100
+,17.,Michel de Jonge,Audi 90 GTO,,15,2 / min: 0/ laps: 27
+,18.,Marc Ollé,Audi 90 GTO,,14,1 / min: 14/ laps: 20
+,19.,Johnny Bell,Audi 90 GTO,,13,5 / min: 0/ laps: 143
+,20.,Alfonso Fernandez5,Audi 90 GTO,,13,2 / min: 3/ laps: 48
+,21.,Duane Kernaghan,Audi 90 GTO,,12,2 / min: 4/ laps: 62
+,22.,Andre Schumacher,Audi 90 GTO,,12,2 / min: 0/ laps: 28
+,23.,Tre Worley,Audi 90 GTO,,12,1 / min: 12/ laps: 20
+,24.,Marcus Rybarczyk,Audi 90 GTO,,12,1 / min: 12/ laps: 6
+,25.,Dominik Freils,Audi 90 GTO,,11,6 / min: 0/ laps: 96
+,26.,Kaj Hansen,Audi 90 GTO,,11,3 / min: 0/ laps: 67
+,27.,Sam Dillingham,Audi 90 GTO,,10,1 / min: 10/ laps: 20
+,28.,Timothy Vandenberge,Audi 90 GTO,,10,1 / min: 10/ laps: 16
+,29.,Aron Kertesz,Audi 90 GTO,,9,3 / min: 0/ laps: 32
+,30.,Jayden Hopp,Audi 90 GTO,,9,1 / min: 9/ laps: 25
+,31.,Peter Urban,Audi 90 GTO,,8,3 / min: 0/ laps: 35
+,32.,Andreas Nordenhof,Audi 90 GTO,,8,1 / min: 8/ laps: 16
+,33.,Bjoern Ackermann,Audi 90 GTO,,6,2 / min: 2/ laps: 43
+,34.,Alexander Kukushkin,Audi 90 GTO,,6,3 / min: 0/ laps: 39
+,35.,Gonzalo Díaz Nieto,Audi 90 GTO,,6,1 / min: 6/ laps: 31
+,36.,Piers D'Orgee,Audi 90 GTO,,6,1 / min: 6/ laps: 23
+,37.,Joe Perry3,Audi 90 GTO,,6,1 / min: 6/ laps: 18
+,38.,Javier Lago,Audi 90 GTO,,6,1 / min: 6/ laps: 16
+,39.,Eduar Jaramillo2,Audi 90 GTO,,5,1 / min: 5/ laps: 44
+,40.,Douglas Carabette,Audi 90 GTO,,5,2 / min: 0/ laps: 34
+,41.,Fabian Bouwmeester,Audi 90 GTO,,5,1 / min: 5/ laps: 27
+,42.,Ruud de Vries,Audi 90 GTO,,5,1 / min: 5/ laps: 23
+,43.,Zachary Husted,Audi 90 GTO,,5,2 / min: 0/ laps: 23
+,44.,Daniel Ivana,Audi 90 GTO,,5,1 / min: 5/ laps: 5
+,45.,Darren Ruthford,Audi 90 GTO,,4,1 / min: 4/ laps: 41
+,46.,Joergen Nielsen,Audi 90 GTO,,4,1 / min: 4/ laps: 30
+,47.,Anton Jonsson,Audi 90 GTO,,4,1 / min: 4/ laps: 23
+,48.,Duncan Marais,Audi 90 GTO,,3,1 / min: 3/ laps: 37
+,49.,Oren Laskin,Audi 90 GTO,,3,1 / min: 3/ laps: 27
+,50.,Juan Jose Suarez,Audi 90 GTO,,3,1 / min: 3/ laps: 23
+,51.,Ali Ruffin,Audi 90 GTO,,3,1 / min: 3/ laps: 18
+,52.,Brian Williams,Audi 90 GTO,,3,1 / min: 3/ laps: 16
+,53.,Chris Yettito,Audi 90 GTO,,3,1 / min: 3/ laps: 16
+,54.,Linas Petkevicius,Audi 90 GTO,,2,2 / min: 1/ laps: 51
+,55.,Altan Hark,Audi 90 GTO,,2,2 / min: 0/ laps: 42
+,56.,Derek Matthews,Audi 90 GTO,,2,1 / min: 2/ laps: 27
+,57.,Antonio Martinez5,Audi 90 GTO,,2,1 / min: 2/ laps: 27
+,58.,Roland Ketzer,Audi 90 GTO,,2,1 / min: 2/ laps: 6
+,59.,Daniel Waghubinger,Audi 90 GTO,,1,1 / min: 1/ laps: 25
+,60.,Nicholas Yielding,Audi 90 GTO,,1,1 / min: 1/ laps: 16
+,61.,Antonio Grapiglia,Audi 90 GTO,,1,1 / min: 1/ laps: 16
+,62.,Michael Haynes,Audi 90 GTO,,0,2 / min: 0/ laps: 29
+,63.,Bru D Silva,Audi 90 GTO,,0,1 / min: 0/ laps: 28
+,64.,Pedro X Paiva,Audi 90 GTO,,0,2 / min: 0/ laps: 27
+,65.,Marc Briones,Audi 90 GTO,,0,1 / min: 0/ laps: 26
+,66.,Christopher Smith42,Audi 90 GTO,,0,1 / min: 0/ laps: 24
+,67.,Diego Asensos2,Audi 90 GTO,,0,1 / min: 0/ laps: 23
+,68.,Devin Donaghy,Audi 90 GTO,,0,2 / min: 0/ laps: 20
+,69.,Arut Agaronyan,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,70.,Matthew Wykoff,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,71.,Stryxnine Pulsatrix,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,72.,Peter Meier2,Audi 90 GTO,,0,2 / min: 0/ laps: 16
+,73.,Ian Brasfield2,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,74.,Jungwoo Hwang,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,75.,Bryan Dodd,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,76.,Luca Mosini,Audi 90 GTO,,0,1 / min: 0/ laps: 10
+,77.,Angel Luis Moreno Villaseñor,Audi 90 GTO,,0,1 / min: 0/ laps: 10
+,78.,Vojin Gajic,Audi 90 GTO,,0,1 / min: 0/ laps: 9
+,79.,Pol Ferrer,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,80.,Carlos Oliveira5,Audi 90 GTO,,0,1 / min: 0/ laps: 7
+,81.,Brian Otto,Audi 90 GTO,,0,1 / min: 0/ laps: 6
+,82.,Roel Kleinekoort,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,83.,Ryan Minzloff2,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,84.,Maxime Le Breton,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,85.,Matt Wasko,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,86.,Neiko G Simmons,Audi 90 GTO,,0,1 / min: 0/ laps: 5
+,87.,Stephan Haisley,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,88.,Cory Vervynckt,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,89.,Kris Kornder,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,90.,Cody Blackledge,Audi 90 GTO,,0,1 / min: 0/ laps: 4
+,91.,Ivan Dmitrievich,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,92.,Dan Fresh,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,93.,Samuel Stoner,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,94.,Jan-Hendrik Ringe,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,95.,Duncan O'Brien,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,96.,David Cooley2,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,97.,Lee Ellicott,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,98.,Ayden Kirk,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,99.,Cat Wheeler,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+GTP Lights,1.,Brendan Lim,Nissan GTP ZX-T,,99,9 / min: 8/ laps: 258
+,2.,Robert Plumley,Nissan GTP ZX-T,,76,8 / min: 2/ laps: 231
+,3.,Carlos Fonseca,Nissan GTP ZX-T,,69,8 / min: 1/ laps: 238
+,4.,Shady Ahmad,Nissan GTP ZX-T,,65,9 / min: 0/ laps: 247
+,5.,Gianluca Gabbiani,Nissan GTP ZX-T,,65,8 / min: 0/ laps: 240
+,6.,Romain Belo,Nissan GTP ZX-T,,45,4 / min: 5/ laps: 101
+,7.,Joshua HT Lo,Nissan GTP ZX-T,,41,6 / min: 0/ laps: 152
+,8.,Konstantin Koval,Nissan GTP ZX-T,,33,4 / min: 5/ laps: 109
+,9.,Kurt Clapper,Nissan GTP ZX-T,,31,9 / min: 0/ laps: 241
+,10.,Rob Geada,Nissan GTP ZX-T,,21,2 / min: 6/ laps: 52
+,11.,Scott Lear,Nissan GTP ZX-T,,19,4 / min: 2/ laps: 116
+,12.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,16,3 / min: 0/ laps: 67
+,13.,Ray Farlow,Nissan GTP ZX-T,,15,6 / min: 0/ laps: 166
+,14.,Germán Suárez,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 28
+,15.,Jorge Fernandez Suarez,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 24
+,16.,Ryan Minzloff2,Nissan GTP ZX-T,,14,6 / min: 0/ laps: 145
+,17.,Emerson Gaudin,Nissan GTP ZX-T,,14,2 / min: 2/ laps: 51
+,18.,Stéphane Lesly,Nissan GTP ZX-T,,13,4 / min: 0/ laps: 81
+,19.,Mathieu Souphy,Nissan GTP ZX-T,,12,3 / min: 0/ laps: 79
+,20.,Robby Swan,Nissan GTP ZX-T,,12,2 / min: 0/ laps: 28
+,21.,Pablo L. Suárez,Nissan GTP ZX-T,,11,5 / min: 0/ laps: 90
+,22.,Daniel Simis,Nissan GTP ZX-T,,11,2 / min: 1/ laps: 55
+,23.,Lance Simon,Nissan GTP ZX-T,,10,5 / min: 0/ laps: 144
+,24.,Antonio J. Vicens,Nissan GTP ZX-T,,10,2 / min: 0/ laps: 49
+,25.,Joel Aguilera2,Nissan GTP ZX-T,,10,2 / min: 0/ laps: 32
+,26.,David M Meyer,Nissan GTP ZX-T,,9,6 / min: 0/ laps: 105
+,27.,Jason Dunnington,Nissan GTP ZX-T,,8,2 / min: 3/ laps: 60
+,28.,Matthew Howe9,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 30
+,29.,Hugh Murray3,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 23
+,30.,Tim Wilkinson3,Nissan GTP ZX-T,,6,5 / min: 0/ laps: 128
+,31.,Brian C Smith,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 30
+,32.,Jyri Wikström,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 28
+,33.,Nicholas Morelli2,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 26
+,34.,J E Hyde,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 20
+,35.,Travis Lapainis,Nissan GTP ZX-T,,4,6 / min: 0/ laps: 154
+,36.,Mario Farag,Nissan GTP ZX-T,,4,2 / min: 0/ laps: 72
+,37.,Alex Ramirez2,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 28
+,38.,Oriol Monteagudo,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 28
+,39.,Krispijn Riet,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 24
+,40.,Dan Reed2,Nissan GTP ZX-T,,3,2 / min: 0/ laps: 45
+,41.,Bret Weyand,Nissan GTP ZX-T,,3,2 / min: 0/ laps: 36
+,42.,Harry Weir,Nissan GTP ZX-T,,2,2 / min: 0/ laps: 46
+,43.,Joshua Vanstone,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 27
+,44.,Don Runkle Jr,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 29
+,45.,Jose Garcia26,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 27
+,46.,Brian Sobb,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 27
+,47.,Fernando Mattos,Nissan GTP ZX-T,,0,3 / min: 0/ laps: 81
+,48.,Tim Phillips,Nissan GTP ZX-T,,0,3 / min: 0/ laps: 68
+,49.,Aaron martin4,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 67
+,50.,Andre Lourenco,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 58
+,51.,Ste Morris,Nissan GTP ZX-T,,0,3 / min: 0/ laps: 55
+,52.,Sarah Dallmeir,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 41
+,53.,Ronny Schubert,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 31
+,54.,James Nunn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 30
+,55.,Christopher Bruyn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 28
+,56.,Josh Garner2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 27
+,57.,Juha Iijalainen,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 27
+,58.,Oscar Alejandro Ramirez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 27
+,59.,Michael Greenberg2,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 26
+,60.,Kyle Graham,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 26
+,61.,Juan Garcia,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,62.,Byron Long,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,63.,Sandro Scerri,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 24
+,64.,Davide Sol,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 23
+,65.,Jesús Arboleya,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 23
+,66.,Greg Grizz,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 22
+,67.,Nick Melaragno2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 22
+,68.,Andrew Jonathan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 21
+,69.,Jeff Groff,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 20
+,70.,Nicky Bobby,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 19
+,71.,Pierryck Kerignard,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 19
+,72.,Philipp Ulanovsky,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 18
+,73.,Saif Al Otaiba,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 17
+,74.,Michael Spohn,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,75.,Michael Newhall,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,76.,Daniel Villa3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,77.,Maximilian Sena Müller,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,78.,Elliott Fry,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,79.,Cristian Fernández Rivas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,80.,Kris Kornder,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,81.,Raul Castillo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,82.,Justin Ehrlich,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,83.,Boris Rattez,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,84.,Christopher Manfredi,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,85.,Brian Henson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,86.,Andreas Bödenauer,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTU,1.,Doug Cloud,Audi 90 GTO,,78,8 / min: 2/ laps: 210
+,2.,Tim J Kennedy,Audi 90 GTO,,78,8 / min: 0/ laps: 182
+,3.,Devin Donaghy,Audi 90 GTO,,55,6 / min: 0/ laps: 136
+,4.,Dan Fresh,Audi 90 GTO,,47,6 / min: 5/ laps: 148
+,5.,Cam Porter,Audi 90 GTO,,39,4 / min: 8/ laps: 106
+,6.,Daniel Cedeno,Audi 90 GTO,,31,4 / min: 1/ laps: 112
+,7.,Thorben Paulik,Audi 90 GTO,,30,6 / min: 0/ laps: 139
+,8.,Peter Urban,Audi 90 GTO,,30,2 / min: 15/ laps: 58
+,9.,Xavier Baca,Audi 90 GTO,,28,8 / min: 0/ laps: 194
+,10.,Mickey Friesen,Audi 90 GTO,,23,9 / min: 0/ laps: 168
+,11.,Kike Mengual,Audi 90 GTO,,22,2 / min: 10/ laps: 46
+,12.,Mika Tuupola,Audi 90 GTO,,21,7 / min: 0/ laps: 141
+,13.,Jamie Hamel-Smith,Audi 90 GTO,,21,3 / min: 0/ laps: 74
+,14.,Francois Demers,Audi 90 GTO,,21,2 / min: 6/ laps: 47
+,15.,Cody Blackledge,Audi 90 GTO,,18,6 / min: 0/ laps: 144
+,16.,Linas Petkevicius,Audi 90 GTO,,18,3 / min: 0/ laps: 55
+,17.,Bjoern Ackermann,Audi 90 GTO,,17,9 / min: 0/ laps: 166
+,18.,Alfonso Fernandez5,Audi 90 GTO,,17,5 / min: 0/ laps: 117
+,19.,Kheireddine Bouafia,Audi 90 GTO,,15,2 / min: 0/ laps: 27
+,20.,Andrius Šliumba,Audi 90 GTO,,14,1 / min: 14/ laps: 21
+,21.,Hugh Messenger,Audi 90 GTO,,13,2 / min: 3/ laps: 45
+,22.,Jesus Amundaray,Audi 90 GTO,,12,2 / min: 4/ laps: 58
+,23.,Pablo Rangel2,Audi 90 GTO,,10,2 / min: 0/ laps: 53
+,24.,Duncan O'Brien,Audi 90 GTO,,10,2 / min: 2/ laps: 43
+,25.,Bru D Silva,Audi 90 GTO,,10,1 / min: 10/ laps: 35
+,26.,Hector Cordero Suarez,Audi 90 GTO,,9,2 / min: 4/ laps: 53
+,27.,Oren Laskin,Audi 90 GTO,,6,4 / min: 0/ laps: 45
+,28.,Mark Darnell,Audi 90 GTO,,6,2 / min: 0/ laps: 30
+,29.,Alejandro Silva Caride2,Audi 90 GTO,,6,1 / min: 6/ laps: 24
+,30.,Andrew Daddow,Audi 90 GTO,,5,1 / min: 5/ laps: 26
+,31.,Steve McLean,Audi 90 GTO,,5,1 / min: 5/ laps: 20
+,32.,Javier Lago,Audi 90 GTO,,4,2 / min: 0/ laps: 38
+,33.,Elliot Beazer,Audi 90 GTO,,4,1 / min: 4/ laps: 26
+,34.,Samanvay Karasala2,Audi 90 GTO,,4,1 / min: 4/ laps: 26
+,35.,Aleksey Diachkov,Audi 90 GTO,,4,1 / min: 4/ laps: 20
+,36.,Steve J Lewis,Audi 90 GTO,,3,2 / min: 0/ laps: 46
+,37.,Matthew Smith30,Audi 90 GTO,,3,1 / min: 3/ laps: 26
+,38.,Vitor Souza3,Audi 90 GTO,,3,1 / min: 3/ laps: 23
+,39.,Chancellor Barton,Audi 90 GTO,,3,1 / min: 3/ laps: 23
+,40.,Gabriel Asselien,Audi 90 GTO,,2,2 / min: 0/ laps: 55
+,41.,Ronnie Peterson,Audi 90 GTO,,2,2 / min: 0/ laps: 44
+,42.,Victor Del Valle Lopez,Audi 90 GTO,,2,1 / min: 2/ laps: 26
+,43.,Ian Carder,Audi 90 GTO,,2,1 / min: 2/ laps: 20
+,44.,Kaj Hansen,Audi 90 GTO,,1,2 / min: 0/ laps: 47
+,45.,Andre Schumacher,Audi 90 GTO,,1,1 / min: 1/ laps: 22
+,46.,Timothy S Porter,Audi 90 GTO,,0,7 / min: 0/ laps: 90
+,47.,Douglas Carabette,Audi 90 GTO,,0,2 / min: 0/ laps: 34
+,48.,Mathias Bernier,Audi 90 GTO,,0,2 / min: 0/ laps: 30
+,49.,Alex Calvo Marti,Audi 90 GTO,,0,1 / min: 0/ laps: 25
+,50.,Sven Eriksson,Audi 90 GTO,,0,1 / min: 0/ laps: 22
+,51.,Marc Ollé,Audi 90 GTO,,0,1 / min: 0/ laps: 21
+,52.,Bret Weyand,Audi 90 GTO,,0,1 / min: 0/ laps: 21
+,53.,Anton Dubovickiy,Audi 90 GTO,,0,1 / min: 0/ laps: 21
+,54.,Jens Göring,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,55.,Jayden Hopp,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,56.,Christopher Bruyn,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,57.,Rodrigo Jaime,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,58.,Patrick Sitter,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,59.,Tomas Cybas,Audi 90 GTO,,0,1 / min: 0/ laps: 20
+,60.,Neiko Simmons2,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,61.,Jackson Foy,Audi 90 GTO,,0,1 / min: 0/ laps: 19
+,62.,Joe Varvel,Audi 90 GTO,,0,1 / min: 0/ laps: 18
+,63.,Paulo Spínola,Audi 90 GTO,,0,1 / min: 0/ laps: 18
+,64.,Ryan Schroeder,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,65.,Joachim Andreassen2,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,66.,Andre Lehmann,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,67.,Thomas Fontaine,Audi 90 GTO,,0,1 / min: 0/ laps: 16
+,68.,Peter Meier2,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,69.,Benjamin Crovari,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,70.,Nathan Matos,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,71.,Jesper Lindman,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,72.,Karl Stonesifer,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,73.,Matt Wasko,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,74.,Jason Clemons,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,75.,Efren Montesdeoca,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+GTP Lights,1.,Brendan Lim,Nissan GTP ZX-T,,81,10 / min: 0/ laps: 237
+,2.,Tim Jonk2,Nissan GTP ZX-T,,72,10 / min: 0/ laps: 227
+,3.,Kurt Clapper,Nissan GTP ZX-T,,54,10 / min: 1/ laps: 236
+,4.,Ferran S. Grau,Nissan GTP ZX-T,,43,6 / min: 0/ laps: 120
+,5.,Romain Belo,Nissan GTP ZX-T,,42,7 / min: 0/ laps: 134
+,6.,Stéphane Lesly,Nissan GTP ZX-T,,38,7 / min: 0/ laps: 141
+,7.,Marc Torres Expósito,Nissan GTP ZX-T,,33,7 / min: 0/ laps: 148
+,8.,Tim Wilkinson3,Nissan GTP ZX-T,,22,3 / min: 0/ laps: 62
+,9.,Germán Suárez,Nissan GTP ZX-T,,20,3 / min: 0/ laps: 63
+,10.,Gerard Boldú,Nissan GTP ZX-T,,18,3 / min: 0/ laps: 80
+,11.,Brett Punkari,Nissan GTP ZX-T,,17,5 / min: 0/ laps: 81
+,12.,Antonio J. Vicens,Nissan GTP ZX-T,,15,3 / min: 0/ laps: 52
+,13.,Antonio Alvarez,Nissan GTP ZX-T,,15,2 / min: 0/ laps: 47
+,14.,Mark Jeangerard,Nissan GTP ZX-T,,15,2 / min: 5/ laps: 38
+,15.,Junya Honma,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 38
+,16.,Ross Banfield2,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 32
+,17.,Jason Clapper,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 28
+,18.,Jack David Spickett,Nissan GTP ZX-T,,15,1 / min: 15/ laps: 27
+,19.,Brendan Hobbart,Nissan GTP ZX-T,,15,2 / min: 0/ laps: 24
+,20.,Jeff Groff,Nissan GTP ZX-T,,14,2 / min: 6/ laps: 51
+,21.,Darryl Wineinger,Nissan GTP ZX-T,,12,3 / min: 1/ laps: 46
+,22.,Jonathan Maycock,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 38
+,23.,Jacob Leon,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 32
+,24.,Jos Smets,Nissan GTP ZX-T,,12,1 / min: 12/ laps: 27
+,25.,Jose Conde,Nissan GTP ZX-T,,11,2 / min: 3/ laps: 71
+,26.,Jorge Fernandez Suarez,Nissan GTP ZX-T,,10,3 / min: 0/ laps: 43
+,27.,John Keefe,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 33
+,28.,Iván Olesiejuk Ayuso,Nissan GTP ZX-T,,10,1 / min: 10/ laps: 22
+,29.,Peter Cowan,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 38
+,30.,Fernando Cerrato,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 27
+,31.,Jason Dunnington,Nissan GTP ZX-T,,8,1 / min: 8/ laps: 24
+,32.,Tim Phillips,Nissan GTP ZX-T,,7,4 / min: 0/ laps: 90
+,33.,Jose Garcia26,Nissan GTP ZX-T,,6,2 / min: 0/ laps: 59
+,34.,Carlos Eduardo Fernandez Guerra,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 38
+,35.,Christian Bermejo,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 27
+,36.,Marty Novak,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 24
+,37.,Lilac Zier,Nissan GTP ZX-T,,6,1 / min: 6/ laps: 22
+,38.,Nico Boris,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 27
+,39.,Andreas Bödenauer,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 26
+,40.,Antonio C Junior,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 11
+,41.,Dennis Haller,Nissan GTP ZX-T,,5,1 / min: 5/ laps: 8
+,42.,Kaj Hansen,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 33
+,43.,Shaun Watson2,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 27
+,44.,Matthew Palmer23,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 23
+,45.,Mark Hewitt,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 23
+,46.,Jorge Gonzaga,Nissan GTP ZX-T,,4,1 / min: 4/ laps: 22
+,47.,Oscar Prado,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 23
+,48.,Unai Llamas,Nissan GTP ZX-T,,3,1 / min: 3/ laps: 11
+,49.,Calvin Salacain,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 37
+,50.,Justin Kirby,Nissan GTP ZX-T,,2,2 / min: 0/ laps: 31
+,51.,Gabby Chaves,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 27
+,52.,Erik Knudson2,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 26
+,53.,Alvaro G Cortines,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 23
+,54.,Rob Geada,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 11
+,55.,Péter Brusznyiczki,Nissan GTP ZX-T,,2,1 / min: 2/ laps: 7
+,56.,Luis Gomez4,Nissan GTP ZX-T,,1,1 / min: 1/ laps: 37
+,57.,Ste Morris,Nissan GTP ZX-T,,1,2 / min: 0/ laps: 23
+,58.,Travis Lapainis,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 37
+,59.,Cristian Arribas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 26
+,60.,Marc Jimenez,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 26
+,61.,Robert Plumley,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 25
+,62.,Kyall Fisher,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 17
+,63.,John Dunne3,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 15
+,64.,Jerek Evans,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 14
+,65.,Jeffrey Furcon,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,66.,Steven Guillou,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,67.,Anton Polyakov,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 11
+,68.,Chaz Johnson,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,69.,Blair Holliman,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 10
+,70.,Harry Weir,Nissan GTP ZX-T,,0,2 / min: 0/ laps: 8
+,71.,Salvador Salas,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,72.,Jordan Brubaker,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 7
+,73.,Michael Foulds,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,74.,Spencer Torrance,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 6
+,75.,Juan Bello,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 5
+,76.,Roy Prewitt2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 4
+,77.,Oriol Monteagudo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,78.,Franz Pippel,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 3
+,79.,Andrew Duncan2,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,80.,Alex J Peck,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,81.,Toby Yeomans,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 2
+,82.,Branden Dugan,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,83.,Jay Walsh,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,84.,Joseph Sabia,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,85.,Peter Wittner,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 1
+,86.,Troy Adams,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,87.,Felix Bemejo,Nissan GTP ZX-T,,0,1 / min: 0/ laps: 0
+,,,,,,
+GTU,1.,Cam Porter,Audi 90 GTO,,84,8 / min: 4/ laps: 193
+,2.,Philippe Savoie,Audi 90 GTO,,75,8 / min: 3/ laps: 198
+,3.,Bjoern Ackermann,Audi 90 GTO,,70,10 / min: 0/ laps: 210
+,4.,Jamie Hamel-Smith,Audi 90 GTO,,44,3 / min: 14/ laps: 53
+,5.,Marti Olle,Audi 90 GTO,,36,4 / min: 0/ laps: 76
+,6.,Andreas Nielsen9,Audi 90 GTO,,33,3 / min: 8/ laps: 51
+,7.,Devin Donaghy,Audi 90 GTO,,32,4 / min: 5/ laps: 85
+,8.,Andre Schumacher,Audi 90 GTO,,30,3 / min: 0/ laps: 55
+,9.,Linas Petkevicius,Audi 90 GTO,,30,2 / min: 15/ laps: 47
+,10.,Francois Demers,Audi 90 GTO,,22,6 / min: 0/ laps: 75
+,11.,Tomas Cybas,Audi 90 GTO,,20,3 / min: 0/ laps: 65
+,12.,steve Low,Audi 90 GTO,,19,4 / min: 2/ laps: 87
+,13.,Marc Ollé,Audi 90 GTO,,19,6 / min: 0/ laps: 80
+,14.,Michael Haynes,Audi 90 GTO,,19,3 / min: 3/ laps: 51
+,15.,Aurimas Zilinskas,Audi 90 GTO,,15,2 / min: 5/ laps: 58
+,16.,Kristian Schaefer,Audi 90 GTO,,15,1 / min: 15/ laps: 10
+,17.,Nejtun Cameron,Audi 90 GTO,,12,2 / min: 0/ laps: 23
+,18.,David Buckley2,Audi 90 GTO,,12,2 / min: 0/ laps: 12
+,19.,Roland Ketzer,Audi 90 GTO,,12,1 / min: 12/ laps: 7
+,20.,Henry Charman,Audi 90 GTO,,10,1 / min: 10/ laps: 25
+,21.,Logan McKinzie,Audi 90 GTO,,10,1 / min: 10/ laps: 24
+,22.,Scott Bennett9,Audi 90 GTO,,10,1 / min: 10/ laps: 7
+,23.,Doug Cloud,Audi 90 GTO,,9,1 / min: 9/ laps: 7
+,24.,Emerson Gaudin,Audi 90 GTO,,8,1 / min: 8/ laps: 22
+,25.,Benjamin Luke,Audi 90 GTO,,7,2 / min: 3/ laps: 55
+,26.,Paulo Spinola,Audi 90 GTO,,6,2 / min: 2/ laps: 48
+,27.,Wiley Cox,Audi 90 GTO,,6,1 / min: 6/ laps: 34
+,28.,Steve McLean,Audi 90 GTO,,6,1 / min: 6/ laps: 29
+,29.,Edu vila,Audi 90 GTO,,6,2 / min: 0/ laps: 24
+,30.,Jens Göring,Audi 90 GTO,,6,1 / min: 6/ laps: 24
+,31.,Andrew Lowery,Audi 90 GTO,,6,1 / min: 6/ laps: 20
+,32.,Maximilian Manlig,Audi 90 GTO,,6,1 / min: 6/ laps: 19
+,33.,Wouter Hermans,Audi 90 GTO,,6,1 / min: 6/ laps: 10
+,34.,Christopher Baier,Audi 90 GTO,,6,1 / min: 6/ laps: 6
+,35.,Kirk Marble,Audi 90 GTO,,5,1 / min: 5/ laps: 34
+,36.,Kristian Schäfer,Audi 90 GTO,,5,1 / min: 5/ laps: 20
+,37.,Chris Sanchez,Audi 90 GTO,,5,1 / min: 5/ laps: 10
+,38.,Javier Delgado6,Audi 90 GTO,,5,1 / min: 5/ laps: 6
+,39.,Daniel Forte,Audi 90 GTO,,4,1 / min: 4/ laps: 22
+,40.,Cabhan Budd,Audi 90 GTO,,4,1 / min: 4/ laps: 20
+,41.,Macaulay Lawrence,Audi 90 GTO,,4,1 / min: 4/ laps: 10
+,42.,Axel Vilar,Audi 90 GTO,,4,1 / min: 4/ laps: 6
+,43.,Hugh Messenger,Audi 90 GTO,,3,1 / min: 3/ laps: 33
+,44.,Remo Jachmann,Audi 90 GTO,,3,2 / min: 0/ laps: 30
+,45.,Sergej Grabun,Audi 90 GTO,,3,1 / min: 3/ laps: 23
+,46.,Andres Annsoo,Audi 90 GTO,,2,1 / min: 2/ laps: 16
+,47.,Robert Bouchard,Audi 90 GTO,,2,1 / min: 2/ laps: 10
+,48.,Javier Lago,Audi 90 GTO,,1,2 / min: 0/ laps: 40
+,49.,Kheireddine Bouafia,Audi 90 GTO,,1,2 / min: 0/ laps: 32
+,50.,Ronnie Peterson,Audi 90 GTO,,1,1 / min: 1/ laps: 23
+,51.,José Da Lanca,Audi 90 GTO,,1,1 / min: 1/ laps: 10
+,52.,Cody Blackledge,Audi 90 GTO,,0,1 / min: 0/ laps: 31
+,53.,Sammy Hendrix,Audi 90 GTO,,0,1 / min: 0/ laps: 29
+,54.,Kevin Lawson-Thomas,Audi 90 GTO,,0,1 / min: 0/ laps: 23
+,55.,Rasmus Lauge,Audi 90 GTO,,0,1 / min: 0/ laps: 17
+,56.,Adam Brogden,Audi 90 GTO,,0,3 / min: 0/ laps: 15
+,57.,David Badia,Audi 90 GTO,,0,1 / min: 0/ laps: 15
+,58.,Tom Weithaas,Audi 90 GTO,,0,1 / min: 0/ laps: 13
+,59.,Bruno Viviano,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,60.,Ryan Fischer,Audi 90 GTO,,0,1 / min: 0/ laps: 12
+,61.,Ciprian Lacatus,Audi 90 GTO,,0,1 / min: 0/ laps: 10
+,62.,Marcus Rybarczyk,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,63.,Jack David Spickett,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,64.,Arturo Vicente Jaén,Audi 90 GTO,,0,1 / min: 0/ laps: 8
+,65.,Fernando Mattos,Audi 90 GTO,,0,1 / min: 0/ laps: 7
+,66.,Mario Kremser,Audi 90 GTO,,0,1 / min: 0/ laps: 6
+,67.,Robbie Kirtley,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,68.,Kike Mengual,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,69.,Tom Lademann,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,70.,Niclas Klitzsch2,Audi 90 GTO,,0,1 / min: 0/ laps: 3
+,71.,Mackenzie Rune,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,72.,Ryan J Sharp,Audi 90 GTO,,0,1 / min: 0/ laps: 2
+,73.,Oren Laskin,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,74.,Robby Swan,Audi 90 GTO,,0,2 / min: 0/ laps: 1
+,75.,Ruben Arenas,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,76.,Matthew Howe9,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,77.,Arut Agaronyan,Audi 90 GTO,,0,1 / min: 0/ laps: 1
+,78.,Ben James Latham,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,79.,Barry Wright2,Audi 90 GTO,,0,1 / min: 0/ laps: 0
+,80.,Neiko Simmons2,Audi 90 GTO,,0,1 / min: 0/ laps: 0
