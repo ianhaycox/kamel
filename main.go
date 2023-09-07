@@ -134,16 +134,19 @@ func main() {
 		airoster.AIDrivers = append(airoster.AIDrivers, aiDriver)
 	}
 
-	//	b, err := json.MarshalIndent(airoster, "", "  ")
-	//	if err != nil {
-	//		panic(err)
-	//	}
+	b, err := json.MarshalIndent(airoster, "", "  ")
+	if err != nil {
+		panic(err)
+	}
 
 	// for i := range airoster.AIDrivers {
 	//	fmt.Println(airoster.AIDrivers[i].DriverName, airoster.AIDrivers[i].DriverSkill, airoster.AIDrivers[i].CarPath)
 	// }
 
-	// fmt.Println(string(b))
+	err = os.WriteFile("roster.json", b, 0644)
+	if err != nil {
+		panic(err)
+	}
 }
 
 func readDrivers() []*Driver {
