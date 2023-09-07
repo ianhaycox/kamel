@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"math/rand"
 	"os"
 	"sort"
@@ -62,25 +63,25 @@ type AIRoster struct {
 	AIDrivers []AIDriver `json:"drivers"`
 }
 
+type Paint struct {
+	UserName           string `yaml:"UserName"`
+	UserID             int    `yaml:"UserID"`
+	CarDesignStr       string `yaml:"CarDesignStr"`
+	HelmetDesignStr    string `yaml:"HelmetDesignStr"`
+	SuitDesignStr      string `yaml:"SuitDesignStr"`
+	CarNumberDesignStr string `yaml:"CarNumberDesignStr"`
+	CarSponsor1        int    `yaml:"CarSponsor_1"`
+	CarSponsor2        int    `yaml:"CarSponsor_2"`
+}
+
 var (
 	Rnd = rand.New(rand.NewSource(time.Now().UnixNano())) //nolint:gosec
 )
 
 func main() {
-	f, err := os.Open("drivers.csv")
-	if err != nil {
-		panic(fmt.Sprintf("error: opening file %s with %v\n", os.Args[1], err))
-	}
+	drivers := readDrivers()
 
-	defer func() { _ = f.Close() }()
-
-	drivers := []*Driver{}
-
-	if err := gocsv.UnmarshalFile(f, &drivers); err != nil {
-		panic(err)
-	}
-
-	sort.Slice(drivers, func(i, j int) bool { return drivers[i].Points > drivers[j].Points })
+	paints := readPaints()
 
 	topDrivers := []Driver{}
 	driven := make(map[string]bool)
@@ -123,19 +124,74 @@ func main() {
 			NumberDesign: "0,0,,,",
 		}
 
+		paint, ok := paints[aiDriver.DriverName]
+		if !ok {
+			fmt.Println("missing " + aiDriver.DriverName + " driver")
+		}
+
+		aiDriver.CarTgaName = fmt.Sprintf("car_%d.tga", paint.UserID)
+
 		airoster.AIDrivers = append(airoster.AIDrivers, aiDriver)
 	}
 
-	b, err := json.MarshalIndent(airoster, "", "  ")
+	//	b, err := json.MarshalIndent(airoster, "", "  ")
+	//	if err != nil {
+	//		panic(err)
+	//	}
+
+	// for i := range airoster.AIDrivers {
+	//	fmt.Println(airoster.AIDrivers[i].DriverName, airoster.AIDrivers[i].DriverSkill, airoster.AIDrivers[i].CarPath)
+	// }
+
+	// fmt.Println(string(b))
+}
+
+func readDrivers() []*Driver {
+	f, err := os.Open("drivers.csv")
 	if err != nil {
 		panic(err)
 	}
 
-	//	for i := range airoster.AIDrivers {
-	//		fmt.Println(airoster.AIDrivers[i].DriverName, airoster.AIDrivers[i].DriverSkill, airoster.AIDrivers[i].CarPath)
-	//	}
+	defer func() { _ = f.Close() }()
 
-	fmt.Println(string(b))
+	drivers := []*Driver{}
+
+	if err := gocsv.UnmarshalFile(f, &drivers); err != nil {
+		panic(err)
+	}
+
+	sort.Slice(drivers, func(i, j int) bool { return drivers[i].Points > drivers[j].Points })
+
+	return drivers
+}
+
+func readPaints() map[string]Paint {
+	p, err := os.Open("paints.json")
+	if err != nil {
+		panic(err)
+	}
+
+	defer func() { _ = p.Close() }()
+
+	paints := make([]Paint, 0)
+
+	jsonBytes, err := io.ReadAll(p)
+	if err != nil {
+		panic(err)
+	}
+
+	err = json.Unmarshal(jsonBytes, &paints)
+	if err != nil {
+		panic(err)
+	}
+
+	result := make(map[string]Paint)
+
+	for i := range paints {
+		result[paints[i].UserName] = paints[i]
+	}
+
+	return result
 }
 
 func carPath(carName string) string {
