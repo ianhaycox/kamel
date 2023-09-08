@@ -20,6 +20,9 @@ type DriverRoot struct {
 	DriverInfo DriverInfo `yaml:"DriverInfo"`
 }
 
+// Recreate paints.json from the TP downloader which has the current colours
+// and customer id which is used to formulate the tga filename
+// TODO iRating is also in the yaml which could be used to weight the AI drivers' skill level
 func TestTPDownloader(t *testing.T) {
 	var dr DriverRoot
 

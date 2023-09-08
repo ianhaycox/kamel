@@ -63,6 +63,7 @@ type AIRoster struct {
 	AIDrivers []AIDriver `json:"drivers"`
 }
 
+// Paint a real driver's customization, i.e. Trading Paints
 type Paint struct {
 	UserName           string `yaml:"UserName"`
 	UserID             int    `yaml:"UserID"`
@@ -117,19 +118,17 @@ func main() {
 			DriverSmoothness:  weightedRnd(i, driver.Points),
 			PitCrewSkill:      PitCrewSkill,
 			StrategyRiskiness: weightedRnd(i, driver.Points),
-
-			CarDesign:    "",
-			SuitDesign:   "",
-			HelmetDesign: "",
-			NumberDesign: "0,0,,,",
 		}
 
-		paint, ok := paints[aiDriver.DriverName]
-		if !ok {
+		if paint, ok := paints[aiDriver.DriverName]; ok {
+			aiDriver.CarTgaName = fmt.Sprintf("car_%d.tga", paint.UserID)
+			aiDriver.CarDesign = paint.CarDesignStr
+			aiDriver.HelmetDesign = paint.HelmetDesignStr
+			aiDriver.SuitDesign = paint.SuitDesignStr
+			aiDriver.NumberDesign = paint.CarNumberDesignStr
+		} else {
 			fmt.Println("missing " + aiDriver.DriverName + " driver")
 		}
-
-		aiDriver.CarTgaName = fmt.Sprintf("car_%d.tga", paint.UserID)
 
 		airoster.AIDrivers = append(airoster.AIDrivers, aiDriver)
 	}
@@ -143,7 +142,7 @@ func main() {
 	//	fmt.Println(airoster.AIDrivers[i].DriverName, airoster.AIDrivers[i].DriverSkill, airoster.AIDrivers[i].CarPath)
 	// }
 
-	err = os.WriteFile("roster.json", b, 0644)
+	err = os.WriteFile("roster.json", b, 0644) //nolint:gosec,gomnd
 	if err != nil {
 		panic(err)
 	}
