@@ -106,7 +106,7 @@ func main() {
 		aiDriver := AIDriver{
 			ID:                uuid.New().String(),
 			RowIndex:          i,
-			CarNumber:         fmt.Sprintf("%02d", i+1),
+			CarNumber:         fmt.Sprintf("%d", i+1),
 			CarPath:           carPath(driver.Car),
 			CarID:             carID(driver.Car),
 			CarClassID:        carClassID(driver.Car),
